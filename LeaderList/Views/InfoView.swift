@@ -22,8 +22,14 @@ struct InfoView: View {
                     Text(text)
                         .foregroundColor(.red)
                 }
+                    
             )
-            .padding()
+            .padding(4)
+            .overlay(
+                RoundedRectangle(cornerRadius: 25)
+                    .stroke(Color.black, lineWidth: 1)
+            )
+            
     }
 }
 
