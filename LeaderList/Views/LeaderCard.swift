@@ -21,22 +21,34 @@ struct LeaderCard: View {
                         .frame(height: 300)
                     
                     CircleImage(image: leader.image)
-                        .offset(y: -100)
-                        .padding(.bottom, -100)
+                        .offset(y: -50)
+                        .padding(.bottom, -50)
                     Text(leader.name)
-                        .font(.system(size: 40))
+                        .font(.system(size: 50))
                         .bold()
                         .foregroundColor(.black)
                     Image("rmit-logo-black")
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                         .frame(height: 80)
+                    HStack {
+                        Text("Date of birth: \(leader.DOB)")
+                            .font(Font.custom("Times New Roman", size: 21))
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                            .padding(.horizontal, 10)
+                            .padding(.bottom, 1)
+                    }
+                    
                     
                     Text("About:")
-                        .font(Font.custom("Times New Roman", size: 35))
-                        .multilineTextAlignment(.leading)
+                        .font(Font.custom("Times New Roman", size: 30))
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.horizontal, 10)
+                    Spacer()
                     Text(leader.description)
                         .font(Font.custom("Times New Roman", size: 20))
+                        .multilineTextAlignment(.leading)
+                        .padding(.horizontal, 10)
 
                     
 //                    InfoView(text: leader.DOB, imageName: "envelope.fill")
@@ -51,6 +63,6 @@ struct LeaderCard: View {
 
 struct LeaderCard_Previews: PreviewProvider {
     static var previews: some View {
-        LeaderCard(leader: leaders[3])
+        LeaderCard(leader: leaders[0])
     }
 }
