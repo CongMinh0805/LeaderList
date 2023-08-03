@@ -15,6 +15,7 @@
 		A3545D2C2A7A325F00E11392 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3545D2B2A7A325F00E11392 /* InfoView.swift */; };
 		A3545D2E2A7A364700E11392 /* LeaderCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3545D2D2A7A364700E11392 /* LeaderCard.swift */; };
 		A3545D312A7A3BAA00E11392 /* Leader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3545D302A7A3BAA00E11392 /* Leader.swift */; };
+		A38903752A7B690A0046C2BA /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38903742A7B690A0046C2BA /* ModelData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		A3545D2B2A7A325F00E11392 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		A3545D2D2A7A364700E11392 /* LeaderCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeaderCard.swift; sourceTree = "<group>"; };
 		A3545D302A7A3BAA00E11392 /* Leader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leader.swift; sourceTree = "<group>"; };
+		A38903742A7B690A0046C2BA /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,10 +62,10 @@
 			isa = PBXGroup;
 			children = (
 				462A96FA2A7A10280001DD96 /* LeaderListApp.swift */,
+				A38903732A7B650D0046C2BA /* Model */,
 				A3545D2F2A7A3B7000E11392 /* Views */,
 				462A96FE2A7A102A0001DD96 /* Assets.xcassets */,
 				462A97002A7A102A0001DD96 /* Preview Content */,
-				A3545D302A7A3BAA00E11392 /* Leader.swift */,
 			);
 			path = LeaderList;
 			sourceTree = "<group>";
@@ -85,6 +87,15 @@
 				A3545D2B2A7A325F00E11392 /* InfoView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		A38903732A7B650D0046C2BA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A3545D302A7A3BAA00E11392 /* Leader.swift */,
+				A38903742A7B690A0046C2BA /* ModelData.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +174,7 @@
 				462A96FD2A7A10280001DD96 /* ContentView.swift in Sources */,
 				462A96FB2A7A10280001DD96 /* LeaderListApp.swift in Sources */,
 				A3545D2A2A7A2FE900E11392 /* CircleImage.swift in Sources */,
+				A38903752A7B690A0046C2BA /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

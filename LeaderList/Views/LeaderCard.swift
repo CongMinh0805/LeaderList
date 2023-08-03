@@ -23,9 +23,11 @@ struct LeaderCard: View {
                     .aspectRatio(contentMode: .fit)
                     .frame(height: 80)
                 
+                
                 InfoView(text: "MBS", imageName: "envelope.fill")
                 InfoView(text: "01234567", imageName: "phone.fill")
-                
+               	
+
             }
         }
     }
