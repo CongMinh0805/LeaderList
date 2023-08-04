@@ -16,7 +16,9 @@ struct Leader : Identifiable{
     var DOB: String
     var country: String
     var position: String
+    var flag: String
     var description: String
+   
    
     
     var imageName: String

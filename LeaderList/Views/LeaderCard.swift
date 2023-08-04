@@ -26,29 +26,48 @@ struct LeaderCard: View {
                     Text(leader.name)
                         .font(.system(size: 50))
                         .bold()
-                        .foregroundColor(.black)
-                    Image("rmit-logo-black")
-                        .resizable()
-                        .aspectRatio(contentMode: .fit)
-                        .frame(height: 80)
-                    HStack {
-                        Text("Date of birth: \(leader.DOB)")
-                            .font(Font.custom("Times New Roman", size: 21))
+                        
+                    Text(leader.flag)
+                        .font(.system(size: 50))
+                   
+                        Text("\nDate of birth: \(leader.DOB)")
+                            .font(Font.custom("Times New Roman", size: 22))
                             .frame(maxWidth: .infinity, alignment: .leading)
-                            .padding(.horizontal, 10)
-                            .padding(.bottom, 1)
-                    }
+                            .padding(.horizontal, 15)
+                            .bold()
                     
+                    Text("\nAge: \(leader.age)")
+                        .font(Font.custom("Times New Roman", size: 22))
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.horizontal, 15)
+                        .bold()
+                    
+                    Text("\nCountry: \(leader.country)")
+                        .font(Font.custom("Times New Roman", size: 22))
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.horizontal, 15)
+                        .bold()
+                  
+                    Text("\nPosition: \(leader.position)")
+                        .font(Font.custom("Times New Roman", size: 22))
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.horizontal, 15)
+                        .bold()
                     
                     Text("About:")
-                        .font(Font.custom("Times New Roman", size: 30))
+                        .font(Font.custom("Times New Roman", size: 35))
                         .frame(maxWidth: .infinity, alignment: .leading)
-                        .padding(.horizontal, 10)
-                    Spacer()
+                        .padding(.horizontal, 15)
+                        .padding(.bottom, 10)
+                        .padding(.top,10)
+                        .bold()
+                    
+                    
                     Text(leader.description)
                         .font(Font.custom("Times New Roman", size: 20))
                         .multilineTextAlignment(.leading)
-                        .padding(.horizontal, 10)
+                        .padding(.horizontal, 15)
+                    
 
                     
 //                    InfoView(text: leader.DOB, imageName: "envelope.fill")
@@ -58,6 +77,7 @@ struct LeaderCard: View {
                 }
             }
         }
+        .ignoresSafeArea()
     }
 }
 
