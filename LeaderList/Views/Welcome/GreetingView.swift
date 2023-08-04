@@ -11,34 +11,34 @@ struct GreetingView: View {
     @Binding var active: Bool
     var body: some View {
         ZStack{
-            Color("rmit-blue").ignoresSafeArea(.all, edges: .all)
+            Color("LeaderCard").ignoresSafeArea(.all, edges: .all)
             
             VStack(spacing: 20){
                 Spacer()
                 VStack(spacing: 0) {
-                    Text("Welcome")
+                    Text("World Leaders")
                       .font(.system(size: 60))
                       .fontWeight(.heavy)
-                      .foregroundColor(.white)
+                      .multilineTextAlignment(.center)
                     Text("""
-                    The Contact List is long,
-                    The Circle is small!
+                    Individuals who shape our world
                     """)
                       .font(.title3)
                       .fontWeight(.light)
-                      .foregroundColor(.white)
                       .multilineTextAlignment(.center)
                       .padding(.horizontal, 10)
+                      .bold()
                     
                     
                 }
-                Spacer()
+              
                 ZStack{
-                    CircleLayerView()
-                    Image("rmit-logo-white")
+                    
+                    Image("globe-icon")
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                         .frame(width: 300)
+                        .clipShape(Circle())
                 }
                 
                 Spacer()
@@ -48,7 +48,7 @@ struct GreetingView: View {
                     active = false
                 }, label: {
                     Capsule()
-                      .fill(Color.white.opacity(0.2))
+                        .fill(Color.black.opacity(0.8))
                       .padding(8)
                       .frame(height:80)
                       .overlay(Text("Let's dig in")

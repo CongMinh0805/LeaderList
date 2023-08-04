@@ -15,6 +15,7 @@ struct Leader : Identifiable{
     var age: Int
     var DOB: String
     var country: String
+    var region: String
     var position: String
     var flag: String
     var description: String

@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "alberto-fernandez.jpg",
+      "filename" : "globe-icon.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "alberto-fernandez@2x.jpg",
+      "filename" : "globe-icon@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "alberto-fernandez@3x.jpg",
+      "filename" : "globe-icon@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }

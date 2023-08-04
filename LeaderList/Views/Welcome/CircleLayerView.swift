@@ -11,7 +11,7 @@ struct CircleLayerView: View {
     var body: some View {
         ZStack {
           Circle()
-                .stroke(.white.opacity(0.4), lineWidth: 40)
+                .stroke(.black.opacity(0.4), lineWidth: 40)
                 .frame(width: 260, height: 260, alignment: .center)
           Circle()
             .stroke(.white.opacity(0.2), lineWidth: 90)

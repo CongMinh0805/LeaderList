@@ -16,11 +16,25 @@ struct LeaderRow: View {
                 .resizable()
                 .frame(width: 80, height: 80)
             VStack {
-                Text(leader.name)
+                HStack(alignment: .top) {
+                    Text(leader.name)
+                        .font(.system(size: 20))
+                        .bold()
                     
-                Text(leader.flag)
-                    .frame(alignment: .leading)
+                    Spacer()
+                    
+                    
+                }
+                
+                HStack(alignment: .top) {
+                    Text(leader.flag)
+                        .font(.system(size: 50))
+                    
+                    Spacer()
+                }
             }
+
+            
         }
     }
 }
