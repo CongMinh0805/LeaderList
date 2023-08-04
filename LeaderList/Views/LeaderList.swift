@@ -48,7 +48,7 @@ struct LeaderList: View {
                         LeaderRow(leader: leader)
                     }
                 }
-                .navigationTitle("World Leaders L 🌎")
+                .navigationTitle("World Leaders 🌎")
                 
             }
             
