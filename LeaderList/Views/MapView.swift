@@ -9,17 +9,24 @@ import SwiftUI
 import MapKit
 
 struct MapView: View {
-    let coordinate : CLLocationCoordinate2D
+    struct AnnotationItem: Identifiable {
+        let id = UUID()
+        let coordinate: CLLocationCoordinate2D
+    }
+    
+    let coordinate: CLLocationCoordinate2D
     
     @State private var region = MKCoordinateRegion()
-        
-        var body: some View {
-            Map(coordinateRegion: $region)
-                .onAppear {
-                    region = MKCoordinateRegion(center: coordinate, span: MKCoordinateSpan(latitudeDelta: 0.004, longitudeDelta: 0.004))
-                }
-        }
     
+    var body: some View {
+        Map(coordinateRegion: $region, annotationItems: [AnnotationItem(coordinate: coordinate)]) { item in
+            MapMarker(coordinate: item.coordinate, tint: .red)
+                
+        }
+        .onAppear {
+            region = MKCoordinateRegion(center: coordinate, span: MKCoordinateSpan(latitudeDelta: 0.004, longitudeDelta: 0.004))
+        }
+    }
 }
 
 struct MapView_Previews: PreviewProvider {
