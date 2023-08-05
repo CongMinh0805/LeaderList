@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct LeaderList: View {
+    
+    
     enum RegionFilter: String, CaseIterable, Identifiable {
         case all
         case asia
@@ -21,7 +23,7 @@ struct LeaderList: View {
 
         var title: String {
             switch self {
-            case .all: return "All"
+            case .all: return "All Regions"
             case .asia: return "Asia"
             case .europe: return "Europe"
             case .oceania: return "Oceania"
@@ -43,18 +45,19 @@ struct LeaderList: View {
     @State private var selectedRegionFilter: RegionFilter = .all
 
     var filteredLeaders: [Leader] {
-            if selectedRegionFilter == .all {
-                return leaders.filter { leader in
-                    searchText.isEmpty || leader.region.localizedCaseInsensitiveContains(searchText)
-                }
-            } else {
-                let selectedRegionLowercased = selectedRegionFilter.rawValue.lowercased()
-                return leaders.filter { leader in
-                    (searchText.isEmpty || leader.region.localizedCaseInsensitiveContains(searchText))
-                        && (leader.region.lowercased() == selectedRegionLowercased)
-                }
+        if selectedRegionFilter == .all {
+            return leaders.filter { leader in
+                searchText.isEmpty || leader.name.localizedCaseInsensitiveContains(searchText)
+            }
+        } else {
+            let selectedRegionLowercased = selectedRegionFilter.rawValue.lowercased()
+            return leaders.filter { leader in
+                (searchText.isEmpty || leader.name.localizedCaseInsensitiveContains(searchText))
+                    && (leader.region.lowercased() == selectedRegionLowercased)
             }
         }
+    }
+
 
 
     var body: some View {

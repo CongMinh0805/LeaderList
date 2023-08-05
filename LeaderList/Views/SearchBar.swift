@@ -12,20 +12,22 @@ struct SearchBar: View {
 
     var body: some View {
         HStack {
-            TextField("Search", text: $searchText)
+            TextField("Search Name", text: $searchText)
                 .padding(8)
                 .background(Color(.systemGray5))
                 .cornerRadius(8)
                 .padding(.horizontal, 15)
-            
-            Button(action: {
-                searchText = ""
-                hideKeyboard()
-            }, label: {
-                Image(systemName: "xmark.circle.fill")
-                    .foregroundColor(.gray)
-                    .padding(8)
-            })
+
+            if !searchText.isEmpty {
+                Button(action: {
+                    searchText = ""
+                    hideKeyboard()
+                }, label: {
+                    Image(systemName: "xmark.circle.fill")
+                        .foregroundColor(.gray)
+                        .padding(8)
+                })
+            }
         }
     }
 }

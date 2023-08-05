@@ -9,11 +9,28 @@ import SwiftUI
 
 struct GreetingView: View {
     @Binding var active: Bool
+    @State private var showStudentInfo = false
+    @Environment(\.colorScheme) var colorScheme
+    
     var body: some View {
         ZStack{
             Color("LeaderCard").ignoresSafeArea(.all, edges: .all)
             
             VStack(spacing: 20){
+                HStack {
+                    Spacer() // Add a spacer to push the button to the top right corner
+                    Button(action: {
+                        showStudentInfo = true // Set the state to true to present the student info view
+                    }, label: {
+                        Image(systemName: "person.circle") // Use the systemName for the profile icon
+                            .font(.system(size: 30))
+                            .foregroundColor(colorScheme == .dark ? .white : .black)
+                    })
+                    .padding(16)
+                    .sheet(isPresented: $showStudentInfo, content: {
+                        StudentInfo() // Present the student info view when the button is tapped
+                    })
+                }
                 Spacer()
                 VStack(spacing: 0) {
                     Text("World Leaders")
@@ -58,6 +75,7 @@ struct GreetingView: View {
                 })
             }
         }
+     
     }
 }
 
