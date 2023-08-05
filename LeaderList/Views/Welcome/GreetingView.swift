@@ -10,6 +10,7 @@ import SwiftUI
 struct GreetingView: View {
     @Binding var active: Bool
     @State private var showStudentInfo = false
+    @State private var showGeneralInfo = false
     @Environment(\.colorScheme) var colorScheme
     
     var body: some View {
@@ -18,18 +19,34 @@ struct GreetingView: View {
             
             VStack(spacing: 20){
                 HStack {
-                    Spacer() // Add a spacer to push the button to the top right corner
                     Button(action: {
-                        showStudentInfo = true // Set the state to true to present the student info view
+                        showGeneralInfo = true // Set the state to true to present the GeneralInfo view
                     }, label: {
-                        Image(systemName: "person.circle") // Use the systemName for the profile icon
+                        Image(systemName: "info.circle") // Information icon
                             .font(.system(size: 30))
                             .foregroundColor(colorScheme == .dark ? .white : .black)
                     })
                     .padding(16)
-                    .sheet(isPresented: $showStudentInfo, content: {
-                        StudentInfo() // Present the student info view when the button is tapped
+                    .sheet(isPresented: $showGeneralInfo, content: {
+                        GeneralInfo(active: .constant(true)) // Present the GeneralInfo view when the button is tapped
                     })
+
+                    Spacer()
+
+                    Spacer() // Add a spacer to push the button to the top right corner
+                    HStack {
+                        Button(action: {
+                            showStudentInfo = true // Set the state to true to present the student info view
+                        }, label: {
+                            Image(systemName: "person.circle") // Use the systemName for the profile icon
+                                .font(.system(size: 30))
+                                .foregroundColor(colorScheme == .dark ? .white : .black)
+                        })
+                        .padding(16)
+                        .sheet(isPresented: $showStudentInfo, content: {
+                            StudentInfo() // Present the student info view when the button is tapped
+                    })
+                    }
                 }
                 Spacer()
                 VStack(spacing: 0) {

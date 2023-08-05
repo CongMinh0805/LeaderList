@@ -12,6 +12,9 @@ struct StudentInfo: View {
     
     var body: some View {
         ZStack {
+            Image("student-info")
+                .resizable()
+                .ignoresSafeArea()
             VStack {
                 Spacer()
                 if colorScheme == .dark {
@@ -19,17 +22,25 @@ struct StudentInfo: View {
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                         .frame(width: 300)
+                        .padding(.top, 60)
                 } else {
                     Image("rmit-logo-black")
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                         .frame(width: 300)
+                        .padding(.top, 60)
                 }
-               
-                Text("IOS Development")
-                    .font(.title)
+                
+                Text("COSC 2659")
+                    .font(.custom("Times New Roman", size: 35))
                     .fontWeight(.bold)
                     .padding(.top, 20)
+                    .multilineTextAlignment(.center)
+               
+                Text("IOS Development")
+                    .font(.custom("Times New Roman", size: 35))
+                    .fontWeight(.bold)
+                    
                     .multilineTextAlignment(.center)
                
                 Text("Dang Cong Minh")
