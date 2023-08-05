@@ -14,7 +14,7 @@ struct LeaderRow: View {
         HStack {
             leader.image
                 .resizable()
-                .frame(width: 80, height: 80)
+                .frame(width: 80, height: 100)
             VStack {
                 HStack(alignment: .top) {
                     Text(leader.name)

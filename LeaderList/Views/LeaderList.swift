@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct LeaderList: View {
-    
+    @State private var ageFilter: Double = 18
     
     enum RegionFilter: String, CaseIterable, Identifiable {
         case all
@@ -45,18 +45,24 @@ struct LeaderList: View {
     @State private var selectedRegionFilter: RegionFilter = .all
 
     var filteredLeaders: [Leader] {
-        if selectedRegionFilter == .all {
-            return leaders.filter { leader in
-                searchText.isEmpty || leader.name.localizedCaseInsensitiveContains(searchText)
+            let leadersToDisplay: [Leader]
+
+            if selectedRegionFilter == .all {
+                leadersToDisplay = leaders.filter { leader in
+                    (leader.age >= Int(ageFilter))
+                        && (searchText.isEmpty || leader.name.localizedCaseInsensitiveContains(searchText))
+                }
+            } else {
+                let selectedRegionLowercased = selectedRegionFilter.rawValue.lowercased()
+                leadersToDisplay = leaders.filter { leader in
+                    (leader.age >= Int(ageFilter))
+                        && (searchText.isEmpty || leader.name.localizedCaseInsensitiveContains(searchText))
+                        && (leader.region.lowercased() == selectedRegionLowercased)
+                }
             }
-        } else {
-            let selectedRegionLowercased = selectedRegionFilter.rawValue.lowercased()
-            return leaders.filter { leader in
-                (searchText.isEmpty || leader.name.localizedCaseInsensitiveContains(searchText))
-                    && (leader.region.lowercased() == selectedRegionLowercased)
-            }
+
+            return leadersToDisplay.sorted { $0.name < $1.name } // Sort the leaders in ascending alphabetical order by name
         }
-    }
 
 
 
@@ -72,6 +78,13 @@ struct LeaderList: View {
                 .padding(.leading)
 
                 Spacer()
+                // Slider to filter by age
+                               VStack {
+                                   Text("Age Filter: \(Int(ageFilter))")
+                                   Slider(value: $ageFilter, in: 18...100, step: 1)
+                                       .padding(.horizontal)
+                               }
+                               .padding(.trailing)
 
                 Picker("Region Filter", selection: $selectedRegionFilter) {
                     ForEach(RegionFilter.allCases) { region in

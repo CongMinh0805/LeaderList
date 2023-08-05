@@ -23,8 +23,11 @@ struct LeaderCard: View {
                             .frame(height: 300)
                         
                         CircleImage(image: leader.image)
+                            .image.resizable()
+                            .frame(width: 250, height: 300)
                             .offset(y: -50)
                             .padding(.bottom, -50)
+                        
                         Text(leader.name)
                             .font(.system(size: 50))
                             .bold()
@@ -89,6 +92,26 @@ struct LeaderCard: View {
                             .font(Font.custom("Times New Roman", size: 20))
                             .multilineTextAlignment(.leading)
                         .padding(.horizontal, 15)
+                        
+//                        Button(action: {
+//                                    // Handle the action when the button is tapped, e.g., open a URL
+//                                    print("Find out more tapped for \(leader.leaderLink)")
+//                                }, label: {
+//                                    HStack {
+//                                        Text("Find out more!")
+//                                            .font(.headline)
+//                                            .foregroundColor(.blue)
+//                                        Image(systemName: "chevron.right")
+//                                            .foregroundColor(.blue)
+////                                        Text("\n\n\n")
+//                                    }
+//                                    .padding(.horizontal)
+//                        })
+                        
+                        Link("More information\n\n",
+                             destination: URL(string: leader.leaderLink)!)
+                            
+                        
                     }
                 }
                 

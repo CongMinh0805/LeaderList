@@ -19,6 +19,7 @@ struct Leader : Identifiable{
     var position: String
     var flag: String
     var description: String
+    var leaderLink: String
    
    
     
