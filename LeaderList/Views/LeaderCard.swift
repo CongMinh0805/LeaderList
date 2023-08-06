@@ -108,7 +108,7 @@ struct LeaderCard: View {
 //                                    .padding(.horizontal)
 //                        })
                         
-                        Link("More information\n\n",
+                        Link("For More information! ☞\n\n",
                              destination: URL(string: leader.leaderLink)!)
                             
                         
