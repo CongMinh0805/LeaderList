@@ -24,6 +24,7 @@
 		A3545D2C2A7A325F00E11392 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3545D2B2A7A325F00E11392 /* InfoView.swift */; };
 		A3545D2E2A7A364700E11392 /* LeaderCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3545D2D2A7A364700E11392 /* LeaderCard.swift */; };
 		A3545D312A7A3BAA00E11392 /* Leader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3545D302A7A3BAA00E11392 /* Leader.swift */; };
+		A36B67432A80343000C796EE /* leaders.json in Resources */ = {isa = PBXBuildFile; fileRef = A36B67422A80343000C796EE /* leaders.json */; };
 		A38903752A7B690A0046C2BA /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38903742A7B690A0046C2BA /* ModelData.swift */; };
 /* End PBXBuildFile section */
 
@@ -46,6 +47,7 @@
 		A3545D2B2A7A325F00E11392 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		A3545D2D2A7A364700E11392 /* LeaderCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeaderCard.swift; sourceTree = "<group>"; };
 		A3545D302A7A3BAA00E11392 /* Leader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leader.swift; sourceTree = "<group>"; };
+		A36B67422A80343000C796EE /* leaders.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = leaders.json; sourceTree = "<group>"; };
 		A38903742A7B690A0046C2BA /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -128,6 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				A3545D302A7A3BAA00E11392 /* Leader.swift */,
+				A36B67422A80343000C796EE /* leaders.json */,
 				A38903742A7B690A0046C2BA /* ModelData.swift */,
 			);
 			path = Model;
@@ -192,6 +195,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				462A97022A7A102A0001DD96 /* Preview Assets.xcassets in Resources */,
+				A36B67432A80343000C796EE /* leaders.json in Resources */,
 				462A96FF2A7A102A0001DD96 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

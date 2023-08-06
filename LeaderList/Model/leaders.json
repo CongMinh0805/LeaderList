@@ -1,0 +1,563 @@
+[
+    
+    {
+      "name": "Joe Biden",
+      "age": 80,
+      "DOB": "20/11/1942",
+      "country": "USA",
+      "region": "North America",
+      "position": "President",
+      "flag":  "🇺🇸",
+      "description":"Joseph Robinette Biden Jr. is an American politician who is the 46th and current president of the United States. A member of the Democratic Party, he previously served as the 47th vice president from 2009 to 2017 under President Barack Obama and represented Delaware in the United States Senate from 1973 to 2009.\n\n Born in Scranton, Pennsylvania, Biden moved with his family to Delaware in 1953. He studied at the University of Delaware before earning his law degree from Syracuse University. He was elected to the New Castle County Council in 1970 and to the U.S. Senate in 1972. As a senator, Biden drafted and led the effort to pass the Violent Crime Control and Law Enforcement Act and the Violence Against Women Act; and oversaw six U.S. Supreme Court confirmation hearings, including the contentious hearings for Robert Bork and Clarence Thomas. Biden ran unsuccessfully for the Democratic presidential nomination in 1988 and 2008. In 2008, Barack Obama chose Biden as his running mate, and Biden was a close counselor to Obama during his two terms as vice president. In the 2020 presidential election, Biden and his running mate, Kamala Harris, defeated incumbents Donald Trump and Mike Pence.\n\nTaking office at age 78, Biden is the oldest president in U.S. history, the first to have a female vice president, and the first from Delaware. In 2021, he signed a bipartisan infrastructure bill, as well as a $1.9 trillion economic stimulus package in response to the COVID-19 pandemic and subsequent recession. Biden proposed the Build Back Better Act, which failed in Congress, but aspects of which were incorporated into the Inflation Reduction Act that was signed into law in 2022. Biden also signed the bipartisan CHIPS and Science Act, which focused on manufacturing. He appointed Ketanji Brown Jackson to the Supreme Court. He worked with congressional Republicans to prevent a first ever national default by negotiating a deal to raise the debt ceiling. In foreign policy, Biden restored America's membership in the Paris Agreement. He oversaw the complete withdrawal of U.S. troops from Afghanistan that ended the war in Afghanistan, during which the Afghan government collapsed and the Taliban seized control. Biden has responded to the Russian invasion of Ukraine by imposing sanctions on Russia and authorizing civilian and military aid to Ukraine. In April 2023, he announced his candidacy for the Democratic Party nomination in the 2024 presidential election.\n\n",
+      "leaderLink": "https://en.wikipedia.org/wiki/Joe_Biden",
+      "imageName": "joe_biden",
+      "coordinates": {
+          "latitude": 38.897678,
+          "longitude": -77.036551
+      }
+    },
+
+    {
+        "name": "Rishi Sunak",
+        "age": 43,
+        "DOB": "12/05/1980",
+        "country": "United Kingdom",
+        "region": "Europe",
+        "position": "Prime Minister",
+        "flag": "🇬🇧",
+        "description":"Rishi Sunak is a British politician who has served as Prime Minister of the United Kingdom and Leader of the Conservative Party since 2022. He is the first British Asian prime minister. He previously held two cabinet positions under Boris Johnson, lastly as Chancellor of the Exchequer from 2020 to 2022.Sunak was born in Southampton to parents of Indian descent who immigrated to Britain from East Africa in the 1960s. He was educated at Winchester College, studied philosophy, politics and economics at Lincoln College, Oxford, and earned an MBA from Stanford University in California as a Fulbright Scholar. During his time at Oxford University, Sunak undertook an internship at Conservative Central Office, and joined the Conservative Party. After graduating, Sunak worked for Goldman Sachs and later as a partner at the hedge fund firms The Children's Investment Fund Management and Theleme Partners.\n\n Sunak was elected to the House of Commons for Richmond in North Yorkshire at the 2015 general election. As a backbencher, Sunak supported the successful campaign for Brexit in the 2016 European Union membership referendum. Following the 2017 general election, Sunak was appointed to a junior ministerial position in Theresa May's second government as Parliamentary Under-Secretary of State for Local Government in the 2018 cabinet reshuffle. He voted three times in favour of May's Brexit withdrawal agreement, which was rejected by Parliament three times, leading to May announcing her resignation. During the 2019 Conservative Party leadership election, Sunak supported Johnson's successful bid to succeed May as Conservative leader and prime minister, after which he appointed Sunak as Chief Secretary to the Treasury in July 2019.\n\nFollowing the 2019 general election, Johnson promoted Sunak to Chancellor of the Exchequer in the 2020 cabinet reshuffle after the resignation of Sajid Javid. During his time in the position, Sunak was prominent in the government's financial response to the COVID-19 pandemic and its economic impact, including the Coronavirus Job Retention and Eat Out to Help Out schemes. He was also involved in the government's response to the cost of living crisis, UK energy supply crisis, and global energy crisis. Sunak resigned as chancellor in July 2022 amid a government crisis that culminated in Johnson's resignation.\n\nSunak stood in the July–September Conservative Party leadership election to succeed Johnson. He had received the most votes in each of the series of MP votes, but lost the members' vote to Foreign Secretary Liz Truss. After spending the duration of Truss's premiership on the backbenches, Sunak stood in the October 2022 Conservative Party leadership election to succeed Truss, who resigned amid another government crisis. He was elected unopposed as Conservative leader and appointed prime minister. Sunak took office amid the cost of living crisis and energy supply crisis that began during his chancellorship, as well as amid industrial disputes and strikes. He has authorised foreign aid and weapons shipments to Ukraine in response to the Russian invasion of that country.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Rishi_Sunak",
+        "imageName": "rishi_sunak",
+        "coordinates": {
+            "latitude":  51.503547 ,
+            "longitude": -0.127700
+        }
+      },
+
+      {
+        "name": "Alberto Fernandez",
+        "age": 64,
+        "DOB": "02/04/1959",
+        "country": "Argentina",
+        "region": "South America",
+        "position": "President",
+        "flag": "🇦🇷",
+        "description":"Alberto Ángel Fernández is an Argentine politician, lawyer and professor, serving as president of Argentina since 2019. Born in Buenos Aires, Fernández attended the University of Buenos Aires, where he earned his law degree at the age of 24, and later became a professor of criminal law.A member of the Peronist Justicialist Party, Fernández was the party's candidate for the 2019 Argentine general election and defeated incumbent president Mauricio Macri, with 48% of the votes. His political position has been described as left-wing.\n\nThe first two years of his presidency was limited by the COVID-19 pandemic in Argentina, during which he imposed strict lockdown measures to suppress the spread of the disease, and a debt crisis inherited from his predecessor. While the economy did recover in 2021–22, inflation rose to 100% (the highest since 1991). His approval ratings have been constantly low throughout his presidency, only in few certain occasions over 50% approval rate, with disapproval ratings from 60% to 80%.\n\nAccording to British newspaper The Economist, he is considered 'a president without a plan', and his presidency to be a 'weak administration', alluding to his lack of independent decision-making. Instead, his decisions are under heavy influence of Vice President and former President Cristina Fernández de Kirchner, also leader of the coalition, whom Fernández himself described as a permanent source of consultation.'\n\nIn April 2023, Fernández announced that he decided to not seek reelection to the presidency in the 2023 general election.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Alberto_Fernandez",
+        "imageName": "alberto-fernandez",
+        "coordinates": {
+            "latitude":  -34.608204 ,
+            "longitude": -58.370243
+        }
+      },
+
+      {
+        "name": "Andres Manuel Lopez Obrador",
+        "age": 69,
+        "DOB": "13/11/1953",
+        "country": "Mexico",
+        "region": "South America",
+        "position": "President",
+        "flag": "🇲🇽",
+        "description":"Andrés Manuel López Obrador, also known by his initials AMLO, is a Mexican politician who has been serving as the 65th president of Mexico since 1 December 2018. He previously served as Head of Government of Mexico City from 2000 to 2005. \n\nBorn in Tepetitán, in the municipality of Macuspana, in the south-eastern state of Tabasco, López Obrador earned a degree in political science from the National Autonomous University of Mexico following a hiatus from his studies to participate in politics. He began his political career in 1976 as a member of the Institutional Revolutionary Party (PRI). His first public position was as director of the Indigenous Institute of Tabasco, where he promoted the addition of books in indigenous languages and the project of the Chontal ridge. In 1989, he joined the Party of the Democratic Revolution (PRD), becoming the party's 1994 candidate for Governor of Tabasco, and national leader between 1996 and 1999. In 2000, he was elected Head of Government of Mexico City. During his tenure, his policies on crime, infrastructure and social spending made him a popular figure on the Mexican left. In 2004, his state immunity from prosecution was removed after refusing to cease construction on land allegedly expropriated by his predecessor, Rosario Robles. This legal process lasted for a year and ended with López Obrador maintaining his right to run for office.\n\nLópez Obrador was nominated as the presidential candidate for the Coalition for the Good of All during the 2006 elections, where he was narrowly defeated by the National Action Party (PAN) candidate Felipe Calderón. While the Federal Electoral Tribunal noted a number of irregularities, it denied López Obrador's request for a general recount, which sparked protests across the country. In 2011 he founded Morena, a civil association and later political party. He was a candidate for the Progressive Movement coalition in the 2012 elections, won by the Commitment to Mexico coalition candidate Enrique Peña Nieto. In 2012, he left the PRD after protesting the party's signing of the Pact for Mexico and joined Morena. As part of the Juntos Haremos Historia coalition, López Obrador was elected president after a landslide victory in the 2018 general election.\n\nOften described as a center-left, progressive, populist, and economic nationalist, López Obrador has been a national politician for over three decades. During his presidency, he has promoted public investment in sectors that had been liberalized under previous administrations and has implemented a number of progressive social reforms. Supporters have praised him for promoting institutional renewal after decades of high inequality and corruption, and refocusing the country's neoliberal consensus towards improving the state of the working class. Critics have claimed that his administration has stumbled in its response to the COVID-19 pandemic, and attempts to deal with drug cartels has antagonized Mexican democratic institutions and that the economy had already faltered before the pandemic.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Andres_Manuel_Lopez_Obrador",
+        "imageName": "andres-manuel",
+        "coordinates": {
+            "latitude":  19.432590 ,
+            "longitude": -99.131860
+        }
+      },
+
+      {
+        "name": "Anthony Albanese",
+        "age": 60,
+        "DOB": "02/03/1963",
+        "country": "Australia",
+        "region": "Oceania",
+        "position": "Prime Minister",
+        "flag": "🇦🇺",
+        "description":"Anthony Norman Albanese is an Australian politician serving as the 31st and current prime minister of Australia since 2022. He has been leader of the Australian Labor Party since 2019 and the member of parliament for Grayndler since 1996. \n\nAlbanese was born in Sydney to an Italian father and an Irish-Australian mother who raised him as a single parent. He attended St Mary's Cathedral College before going on to the University of Sydney to study economics. He joined the Labor Party as a student, and before entering Parliament worked as a party official and research officer. Albanese was elected to the House of Representatives at the 1996 election, winning the seat of Grayndler in New South Wales. He was first appointed to the shadow cabinet in 2001 by Simon Crean and went on to serve in a number of roles, eventually becoming Manager of Opposition Business in 2006. After Labor's victory in the 2007 election, Albanese was appointed Leader of the House, and was also made Minister for Regional Development and Local Government and Minister for Infrastructure and Transport. In the subsequent leadership tensions between Kevin Rudd and Julia Gillard from 2010 to 2013, Albanese was publicly critical of the conduct of both, calling for party unity. After supporting Rudd in the final leadership ballot between the two in June 2013, Albanese was elected the deputy leader of the Labor Party and sworn in as deputy prime minister the following day, a position he held for less than three months, as Labor was defeated at the 2013 election. \n\nAfter Rudd resigned the leadership and retired from politics, Albanese stood against Bill Shorten in the ensuing leadership election, the first to include party members in addition to MPs. Although Albanese won a large majority of the membership, Shorten won more heavily among Labor MPs and won the contest; Shorten subsequently appointed Albanese to his Shadow Cabinet. After Labor's surprise defeat in the 2019 election, Shorten resigned as leader, with Albanese becoming the only person nominated in the leadership election to replace him; he was subsequently elected unopposed as leader of the Labor Party, becoming Leader of the Opposition. \n\nIn the 2022 election, Albanese led his party to a decisive victory against Scott Morrison's Liberal-National Coalition. Albanese is the first Italian-Australian to become prime minister, the first Australian prime minister to have a non-Anglo-Celtic surname, and is the last of the 16 Australian prime ministers who have served under Queen Elizabeth II. He was sworn in on 23 May 2022, alongside four senior frontbench colleagues. Albanese's first acts as prime minister included updating Australia's climate targets in an effort to reach carbon neutrality by 2050, and supporting an increase to the national minimum wage. His government legislated a national anti-corruption commission, made major changes to Australian labour law and established the Royal Commission into the Robodebt Scheme. In foreign policy, Albanese pledged further logistical support to Ukraine to assist with the Russo-Ukrainian war, has attempted to strengthen relations in the Pacific region, and held a high-level meeting with Chinese president Xi Jinping, overseeing an easing of tensions between the countries and leading to easing of trade restrictions put by China on Australia. He also oversaw the official commencement of the AUKUS security pact between Australia, the United States, and the United Kingdom.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+        "imageName": "anthony_albanese",
+        "coordinates": {
+            "latitude":  -35.308167,
+            "longitude": 149.124510
+        }
+      },
+
+      {
+        "name": "Antonio Costa",
+        "age": 62,
+        "DOB": "17/07/1961",
+        "country": "Portugal",
+        "region": "Europe",
+        "position": "Prime Minister",
+        "flag":  "🇵🇹",
+        "description":"António Luís Santos da Costa GCIH is a Portuguese lawyer and politician who has served as the 119th and current prime minister of Portugal since 26 November 2015, presiding over the XXI, XXII and XXIII Constitutional Governments.(2022–present).\n\n Previously, he was secretary of state for parliamentary affairs from 1995 to 1997, minister of parliamentary affairs from 1997 to 1999, minister of justice from 1999 to 2002, minister of internal administration from 2005 to 2007, as well as mayor of Lisbon from 2007 to 2015. He was elected secretary-general of the Socialist Party in 2014.\n\nCosta's first role in a Socialist government was as minister of parliamentary affairs under Prime Minister António Guterres between 1997 and 1999. He was Minister of Justice from 1999 to 2002.Costa was a member of the European Parliament for the Socialist Party (PES), heading the list for the 2004 European elections after the dramatic death of top candidate António de Sousa Franco. On 20 July 2004 he was elected as one of the 14 vice-presidents of the European Parliament. He also served on the Committee on Civil Liberties, Justice and Home Affairs. \n\nCosta resigned as an MEP on 11 March 2005 to become Minister of State and Internal Administration in the government of José Sócrates following the 2005 national elections. António Costa resigned all government offices in May 2007 to become his party's candidate for the municipality of Lisbon, Portugal's capital city. He was elected as Lisbon's mayor on 15 July 2007 and reelected in 2009 and 2013, with a bigger majority each time. In April 2015 he resigned his duties as a mayor, while he was already the secretary general of the Socialist Party and the party's candidate for Prime Minister, so that he could prepare his campaign for the October 2015 general elections.\n\nIn September 2014, the Socialist Party chose Costa as its candidate to be prime minister of Portugal in the 2015 national elections; in a ballot to select the party's candidate, gaining nearly 70 percent of the votes, he defeated party leader António José Seguro, who announced his resignation after the result. By April 2015, he stepped down as mayor to focus on his campaign. \n\nDuring the campaign, Costa pledged to ease back on austerity and give more disposable income back to households. He proposed to boost incomes, hiring and growth in order to cut the budget deficits while scrapping austerity measures and cutting taxes for the middle and lower classes, asserting that would still allow deficits to reduce in line with the Euro convergence criteria. Also, he pledged to roll back a hugely unpopular hike in value added tax on restaurants and reinstate some benefits for civil servants.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Antonio_Costa",
+        "imageName": "antonio_costa",
+        "coordinates": {
+            "latitude":  38.712481,
+            "longitude": -9.153670
+        }
+      },
+
+      {
+        "name": "Arturs Krišjānis Kariņš",
+        "age": 58,
+        "DOB": "13/02/1964",
+        "country": "Latvia",
+        "region": "Europe",
+        "position": "Prime Minister",
+        "flag":  "🇱🇻",
+        "description":"Arturs Krišjānis Kariņš is a Latvian-American politician who has served as the Prime Minister of Latvia since 2019. A linguist and businessman by profession, he previously served as Latvia's Minister of Economics and a Member of the European Parliament. \n\nAfter graduating with a bachelor's degree summa cum laude and PhD in linguistics from the University of Pennsylvania, Kariņš moved to Latvia in 1997 and founded a frozen food business. He helped found the New Era Party in 2002, which in 2011 merged with others to form the Unity Party (renamed New Unity in 2018). After serving as a deputy in Latvia's parliament (the Saeima), as Minister of Economics, and also as a Member of the European Parliament throughout the 2000s and 2010s, Kariņš was selected by New Unity to be its prime ministerial candidate in the 2018 Latvian parliamentary election. Following the election, New Unity was the smallest party elected to the 13th Saeima. \n\nFollowing months of contentious negotiations in which leaders of the larger parties were unable to form a coalition, Kariņš was nominated by President Raimonds Vējonis in January 2019 as a compromise candidate to form a government. He took office on 23 January 2019 at the head of a five-party coalition, and survived a 58–33 vote of no confidence on 11 April 2019. During his tenure, he has led the country's response to the COVID-19 pandemic as well as the 2021 Belarus-European Union border crisis.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Krisjanis_Karins",
+        "imageName": "arturs_krisjanis",
+        "coordinates": {
+            "latitude": 56.951111,
+            "longitude": 24.104444
+        }
+      },
+
+      {
+        "name": "Chris Hipkins",
+        "age": 44,
+        "DOB": "05/09/1978",
+        "country": "New Zealand",
+        "region": "Oceania",
+        "position": "Prime Minister",
+        "flag":  "🇳🇿",
+        "description":"Christopher John Hipkins is a New Zealand politician who has been serving as the 41st prime minister of New Zealand and leader of the New Zealand Labour Party since 2023. He became member of Parliament for Remutaka in 2008.\n\nHipkins was born and raised in the Hutt Valley in Wellington, and while at Victoria University of Wellington became heavily involved in student politics. He was elected president of VUWSA twice, in 2000 and 2001. Hipkins won the pre-selection for the typically safe Labour seat of Remutaka in the Hutt Valley in 2008, but due to the return of the National Party to governance won it by a thin margin. As Labour's education spokesperson during their nine years in opposition, Hipkins became regarded as a 'cut-throat political player' and a sharp, quick-witted debater. \n\nAfter Jacinda Ardern led Labour to victory in the 2017 general election, Hipkins assumed multiple portfolios within the Sixth Labour Government, serving variously as minister of education, police, the public service, and leader of the House. For his perceived competence within multiple roles and responsibilities, Hipkins became regarded as Labour's 'fixer'. His tenure as minister of health was widely praised, and he was central to the government's highly effective response to the COVID-19 pandemic in New Zealand. The elimination policy became the primary focus of the 2020 election, helping Labour win in a landslide. After the victory, Hipkins took on more responsibility, serving as minister for COVID-19 response from November 2020 to June 2022. On 21 January 2023, Hipkins became the sole candidate to succeed Jacinda Ardern as leader of the Labour Party after she announced her resignation. He became party leader after being elected unopposed on 22 January 2023, and was consequently appointed prime minister by the governor-general on 25 January 2023. He is expected to lead the Labour Party into the 2023 general election. His premiership was faced almost immediately with the 2023 Auckland Anniversary Weekend floods, and then by further flooding from Cyclone Gabrielle.\n\nHipkins is often characterised ideologically as pragmatic. He has emphasised 'bread and butter' issues during his premiership, such as combatting the increased cost of living. Some observers see this is a push to retain or regain the support of the centrist swing voters who abandoned National in swathes for Labour in 2020. In July 2023, Labour introduced sweeping welfare initiatives as part of that year's budget, including a $1 billion Cyclone Recovery plan, a large increase in childcare and parental leave, scrapping prescription co-payments, free public transport for under-13s (and half price for under-25s), and increasing the funding for Te Matatini tenfold.\n\nHipkins is often regarded as affable and self-deprecating, and is commonly known by his nickname, Chippy, derived from his initials and his 'schoolboy demeanour'. Despite Labour's intense competition in opinion polls with National ahead of the upcoming general election, Hipkins remains broadly popular, and has consistently been placed comfortably ahead of rival Christopher Luxon in preferred prime minister rankings.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Chris_Hipkins",
+        "imageName": "chris_hipkins",
+        "coordinates": {
+            "latitude": -41.278396,
+            "longitude": 174.776377
+        }
+      },
+
+      {
+        "name": "Emmanuel Macron",
+        "age": 45,
+        "DOB": "21/12/1977",
+        "country": "France",
+        "region": "Europe",
+        "position": "President",
+        "flag":  "🇫🇷",
+        "description":"Emmanuel Jean-Michel Frédéric Macron, born 21 December 1977 in Amiens,is a French politician serving as the President of France since 2017. Ex officio, he is also one of the two Co-Princes of Andorra. Earlier, Macron served as the Minister of Economics, Industry and Digital Affairs under President François Hollande from 2014 to 2016 and Deputy Secretary-General to the President from 2012 to 2014.\n\nBorn in Amiens, he studied philosophy at Paris Nanterre University, later completing a master's degree in public affairs at Sciences Po and graduating from the École nationale d'administration in 2004. Macron worked as a senior civil servant at the Inspectorate General of Finances and later became an investment banker at Rothschild & Co.\n\nMacron was appointed Élysée deputy secretary-general by President François Hollande shortly after his election in May 2012, making him one of Hollande's senior advisers. He was appointed to the Government of Prime Minister Manuel Valls as Minister of Economics, Industry and Digital Affairs in August of 2014. In this role, Macron championed a number of business-friendly reforms. He resigned in August 2016, launching a campaign for the 2017 presidential election. Although Macron had been a member of the Socialist Party from 2006 to 2009, he ran in the election under the banner of En Marche, a centrist and pro-European political movement he founded in April 2016.\n\nPartly thanks to the Fillon affair which sank The Republicans nominee François Fillon, Macron topped the ballot in the first round of voting, before he was elected President of France on 7 May 2017 with 66.1% of the vote in the second round, defeating Marine Le Pen of the National Front. At the age of 39, Macron became the youngest president in French history. In the 2017 legislative election in June, Macron's party, renamed La République En Marche! (LREM), secured a majority in the National Assembly. He appointed Édouard Philippe as prime minister until his resignation in 2020, when he appointed Jean Castex. Macron was elected to a second term in the 2022 presidential election, again defeating Le Pen, thus becoming the first French presidential candidate to win reelection since Jacques Chirac in 2002. However, in the 2022 legislative election, his centrist coalition lost its absolute majority, resulting in a hung parliament and the formation of France's first minority government since the fall of the Bérégovoy government in 1993. Macron's current prime minister is Élisabeth Borne, the second female head of government in French history, whom he appointed upon the beginning of his second term to replace Castex in May 2022. Furthermore, Macron reshuffled his current cabinet twice since its formation: first in July 2022, second in July 2023.\n\nDuring his presidency, Macron has overseen several reforms to labour laws, taxation and pensions; he has pursued a renewable energy transition. Dubbed 'president of the rich' by political opponents, increasing protests against his domestic reforms and demanding his resignation marked the first years of his presidency, culminating in 2018–2020 with the yellow vests protests and the pension reform strike. From 2020, he led France's response to the COVID-19 pandemic and vaccination rollout. In 2023, the government of his prime minister, Elisabeth Borne, passed legislation raising the retirement age from 62 to 64; the pension reforms proved controversial and led to public sector strikes and violent protests. In foreign policy, he called for reforms to the European Union (EU) and signed bilateral treaties with Italy and Germany. Macron conducted $45-billion trade and business agreements with China during the China–United States trade war and oversaw a dispute with Australia and the United States over the AUKUS security pact. He continued Opération Chammal in the war against the Islamic State and joined in the international condemnation of the 2022 Russian invasion of Ukraine.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+        "imageName": "emmanuel_macron",
+        "coordinates": {
+            "latitude": 48.870364,
+            "longitude": 2.316758
+        }
+      },
+
+      {
+        "name": "Recep Tayyip Erdoğan",
+        "age": 69,
+        "DOB": "29/02/1954",
+        "country": "Turkey",
+        "region": "Europe",
+        "position": "President",
+        "flag":  "🇹🇷",
+        "description":"Recep Tayyip Erdoğan is a Turkish politician serving as the 12th and current president of Turkey since 2014. He previously served as prime minister of Turkey from 2003 to 2014 and as mayor of Istanbul from 1994 to 1998. He also co-founded the Justice and Development Party in 2001.\n\nBorn in Güneysu, Rize, Erdoğan moved with his family to Istanbul at the age of 13. He studied business administration at the Aksaray Academy of Economic and Commercial Sciences, before working as a consultant and senior manager in the private sector. During this time, Erdoğan became active in parties led by veteran Islamist politician Necmettin Erbakan, starting as his party's Beyoğlu district chair in 1984 and Istanbul chair in 1985. Following the 1994 local elections, Erdoğan was elected mayor of Istanbul, where he implemented a series of reforms that modernized the city's infrastructure and economy. In 1998 he was convicted for inciting religious hatred and banned from politics after reciting a poem by Ziya Gökalp that compared mosques to barracks and the faithful to an army. Erdoğan was released from prison in 1999 and subsequently abandoned openly Islamist politics, breaking with Erbakan to form the AKP, a party designed to follow the example of the European Christian democratic parties.\n\nErdoğan led the AKP to a landslide victory in the election for the Grand National Assembly in 2002, only a year after founding the party. After his political ban was lifted by prime minister Abdullah Gül, Erdoğan became prime minister after winning a by-election in Siirt in 2003. Erdoğan led the AKP to two more election victories in 2007 and 2011. Reforms made in the early years of Erdoğan's tenure as prime minister granted Turkey the start of EU membership negotiations. Furthermore, Turkey experienced an economic recovery from the economic crisis of 2001 and saw investments in infrastructure including roads, airports, and a high-speed train network. He also won two successful constitutional referendums in 2007 and 2010. Erdoğan reduced the military influence on politics, withstood the criticism of the armed forces' e-memorandum documents and remained controversial for his close links with the Gülen movement, with whom the AKP was accused of orchestrating purges against military officers through the Balyoz and Ergenekon trials. In late 2012, his government began peace negotiations with the Kurdistan Workers Party (PKK) to end the Kurdish–Turkish conflict, which ended three years later.\n\nIn 2014, Erdoğan became the nation's first popularly elected president. Erdoğan's presidency has been marked by democratic backsliding and a shift towards a more authoritarian style of government and has faced allegations of human rights abuses, suppression of dissents and suppression of freedom of speech. He has been criticized for his handling of several issues, including the 2013 Gezi Park protests, the 2016 failed coup attempt, his economic policies and the ongoing conflict in Syria, which is believed to have contributed to the bad results of the 2019 local elections, in which his party lost power in large cities to opposition parties for the first time in 15 years. Erdoğan supported the 2017 referendum, changing Turkey's parliamentary system into a presidential system, introducing term limit for the head of government (two full five-year terms), and greatly expanding executive powers. This new system of government formally came into place after the 2018 general election, where Erdoğan became an executive president. His party however lost the majority in the parliament since then and is currently in a coalition (People's Alliance) with the Nationalist Movement Party (MHP). Especially starting from 2018, he has decreased the independence of the Central Bank and pursued a highly unorthodox monetary policy, leading to high inflation rates and the depreciation of the value of the Turkish lira. From 2020, he led Turkey's response to the COVID-19 pandemic and vaccination rollout. In foreign policy, as a result of the Syrian civil war, Turkey became the world's largest refugee hosting country since 2014 and launched operations against the Islamic State, Syrian Democratic Forces and Assad's forces. Following the ratification of the Libya–Turkey maritime deal, Turkey has sent military assistance in support of the United Nations-recognized government. He responded to the 2022 Russian invasion of Ukraine by closing the Bosphorus to Russian naval reinforcements, brokering a deal between Russia and Ukraine regarding export of grain, and mediating a prisoner exchange.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdogan",
+        "imageName": "erdogan",
+        "coordinates": {
+            "latitude": 39.930890,
+            "longitude": 32.799024
+        }
+      },
+
+      {
+        "name": "Fumio Kishida",
+        "age": 66,
+        "DOB": "29/07/1957",
+        "country": "Japan",
+        "region": "Asia",
+        "position": "Prime Minister",
+        "flag":  "🇯🇵",
+        "description":"Fumio Kishida is a Japanese politician serving as prime minister of Japan and president of the Liberal Democratic Party since 2021. A member of the House of Representatives, he previously served as Minister for Foreign Affairs from 2012 to 2017 and as acting Minister of Defense in 2017.\n\nBorn into a political family, Kishida spent part of his childhood in the United States, where he attended elementary school in New York City. After beginning his career in finance, Kishida entered politics and was elected to the House of Representatives in 1993 as a member of the LDP. Kishida was appointed to various posts in the cabinets of prime ministers Shinzo Abe and Yasuo Fukuda from 2007 to 2008, and was appointed Minister for Foreign Affairs in 2012 after Abe regained the premiership following the 2012 general election, serving for five years and becoming the longest-serving Foreign Affairs Minister in Japanese history. Kishida resigned from the Abe cabinet in 2017 in order to head the LDP's Policy Research Council. Kishida also assumed control of the LDP's more moderate Kōchikai faction in 2012 following the retirement of faction boss Makoto Koga.\n\nLong considered a potential future prime minister, Kishida ran in the 2020 LDP leadership election, but lost to Yoshihide Suga. He ran again for the party leadership in 2021, this time winning in a second round run-off against opponent Taro Kono. Kishida was confirmed as Prime Minister by the National Diet four days later on 4 October 2021. He led the LDP to victory in the 2021 general election later that same month, albeit at a substantially reduced majority.\n\nKishida has been described as a moderate conservative and has stated that his premiership will focus on a 'new model of capitalism', by seeking to implement redistributive policies to expand the middle class. On foreign policy he has continued strengthening the Quad Security Dialogue in pursuit of the Free and Open Indo-Pacific strategy, taken steps to repair ties with South Korea and in 2022 instructed the cabinet to increase Japan's military budget by 65% by 2027. His premiership has seen political scandals related to the LDP's links to the Unification Church which came to public attention after the assassination of Shinzo Abe in 2022.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Fumio_Kishida",
+        "imageName": "fumio_kishida",
+        "coordinates": {
+            "latitude": 35.673019,
+            "longitude":  139.742422
+        }
+      },
+
+      {
+        "name": "Gitanas Nausėda",
+        "age": 59,
+        "DOB": "19/05/1964",
+        "country": "Lithuania",
+        "region": "Europe",
+        "position": "President",
+        "flag":  "🇱🇹",
+        "description":"Gitanas Nausėda is a Lithuanian politician, economist and banker who is serving as the ninth and current president of Lithuania since 2019. He was previously director of monetary policy at the Bank of Lithuania from 1996 to 2000 and chief economist to the chairman of SEB bankas from 2008 to 2018. \n\nFrom 1982 to 1987 he studied in Vilnius University, Faculty of Industrial Economics and from 1987 to 1989 in the Faculty of Economics. In 1988 Gitanas joined the Communist Party of the Soviet Union. \n\nFrom 1990 to 1992 he did a practice at the University of Mannheim in Germany under the DAAD scholarship. He defended his PhD thesis 'Income Policy Under Inflation and Stagflation' in 1993. Since 2009 he is an associate professor at Vilnius University Business School. \n\nOn 17 September 2018, Nausėda announced his candidacy for the 2019 Lithuanian presidential election. He finished just 2,000 votes behind former Finance Minister Ingrida Šimonytė in the first round, and defeated her in the runoff with 66 percent of the vote. \n\nHe was officially inaugurated on 12 July. Nausėda presented acting Prime Minister Saulius Skvernelis's candidacy to continue his duties on 18 July. By the time he had spent a month in office, Nausėda was considered to be the most trusted politician in Lithuania according to polls conducted by the Lithuanian National Radio and Television (LRT).\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Gitanas_Nauseda",
+        "imageName": "gitanas_nauseda",
+        "coordinates": {
+            "latitude": 54.683115,
+            "longitude":  25.286436
+        }
+      },
+
+      {
+        "name": "Hassanal Bolkiah",
+        "age": 70,
+        "DOB": "05/08/1952",
+        "country": "Brunei",
+        "region": "Asia",
+        "position": "Sultan",
+        "flag":  "🇧🇳",
+        "description":"Hassanal Bolkiah ibni Omar Ali Saifuddien III[1] (Jawi: حسن البلقية; born 15 July 1946) is Sultan and Yang di-Pertuan of Brunei since 1967 and the Prime Minister of Brunei since independence from the United Kingdom in 1984. He is one of the few absolute monarchs in the world. The eldest son of Sultan Omar Ali Saifuddien III and Raja Isteri Pengiran Anak Damit, he succeeded to the throne as the sultan of Brunei following the abdication of his father on 5 October 1967.\n\nThe sultan has been ranked among the wealthiest individuals in the world. As of 2023, Hassanal Bolkiah is said to have a net worth of $30 billion. He is the world's longest-reigning current monarch and the longest-serving current head of state. On 5 October 2017, Bolkiah celebrated his Golden Jubilee to mark the 50th year of his reign. \n\nThe sultan was born during the reign of his uncle, Sultan Ahmad Tajuddin on 15 July 1946, in Istana Darussalam, Brunei Town (now called Bandar Seri Begawan) as Pengiran Muda Mahkota (Crown Prince) Hassanal Bolkiah. His father, the Bendahara at that time was the Heir presumptive of Brunei which puts Hassanal Bolkiah second in line to the Throne at the time of his birth. The sultan received high school education at Victoria Institution in Kuala Lumpur, after which he attended the Royal Military Academy Sandhurst in the United Kingdom, graduating in 1967.\n\nCrown Prince Hassanal Bolkiah became the Sultan of Brunei Darussalam on 5 October 1967, after his father abdicated. His coronation was held on 1 August 1968, and made him the Yang di-Pertuan (Head of State) of Brunei. Like his father, he was knighted by Queen Elizabeth II of the United Kingdom, of which Brunei was a protectorate until 1984. Under his reign, Brunei made several diplomatic milestones such as being a part of both ASEAN and United Nations (UN) in 1984.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Hassanal_Bolkiah",
+        "imageName": "hassanal_bolkiah",
+        "coordinates": {
+            "latitude": 4.871519,
+            "longitude":  114.921110
+        }
+      },
+
+      {
+        "name": "Hun Sen",
+        "age": 62,
+        "DOB": "17/07/1961",
+        "country": "Cambodia",
+        "region": "Asia",
+        "position": "Prime Minister",
+        "flag":  "🇰🇭",
+        "description":"Samdech Hun Sen is a Cambodian politician and former military commander who has been the prime minister of Cambodia since 1985. He is the longest-serving head of government in Cambodia's history, and one of the longest-serving leaders in the world.\n\nHun Sen rose to the premiership in January 1985 when the one-party National Assembly appointed him to succeed Chan Sy, who had died in office in December 1984. He held the position until the 1993 UN-backed elections which resulted in a hung parliament, with opposition party FUNCINPEC winning the majority of votes. Hun Sen refused to accept the result. After negotiations with FUNCINPEC, Norodom Ranariddh and Hun Sen agreed to simultaneously serve as First and Second Prime Minister, until the coalition broke down and Sen orchestrated a coup d'état in 1997 which toppled Ranariddh.\n\nSince 1998, Hun Sen has led the CPP to consecutive and often contentious election victories, overseeing rapid economic growth and development, but also corruption, deforestation and human rights violations. In 2013, Hun Sen and the CPP were reelected with a significantly reduced majority. Allegations of voter fraud led to widespread anti-government protests. In 2018, he was elected to a sixth term in a largely unopposed poll after the dissolution of the opposition party, with the CPP winning every seat in the National Assembly. He is currently serving in his sixth term as prime minister in de facto one-party rule.\n\nHun Sen has been prominent in communist, Marxist–Leninist and now state capitalist and national conservative political parties, and although Khmer nationalism has been a consistent trait of all of them, he is thought to lack a core political ideology. In foreign policy, Sen has in recent years strengthened a close diplomatic and economic alliance with China, which has undertaken large-scale infrastructure projects and investments in Cambodia under the Belt and Road Initiative. Meanwhile, Sen has frequently criticized Western powers in response to their sanctions on Cambodia over human rights issues and has overseen a number of diplomatic disputes with neighboring Thailand.\n\nHe has been described as a 'wily operator who destroys his political opponents' by The Sydney Morning Herald and as a dictator who has assumed highly centralized power in Cambodia and considerable personal wealth using violence and corruption, including a personal guard said to rival the country's regular army.\n\nOn 26 July 2023, three days after the 2023 election, Hun Sen formally announced his resignation as prime minister following an audience with the King, with his son Hun Manet as his successor. He will remain as party president and member of parliament, and will be appointed as President of the Supreme Privy Council to the King as well as President of the Senate after the 2024 Senate elections.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Hun_Sen",
+        "imageName": "hun-sen",
+        "coordinates": {
+            "latitude": 11.562122,
+            "longitude":   104.916145
+        }
+      },
+
+      {
+        "name": "Joko Widodo",
+        "age": 62,
+        "DOB": "21/06/1961",
+        "country": "Indonesia",
+        "region": "Asia",
+        "position": "President",
+        "flag":  "🇮🇩",
+        "description":"Joko Widodo, popularly known as Jokowi, is an Indonesian politician and businessman who is the seventh and current president of Indonesia. A member of the Indonesian Democratic Party of Struggle, he was the country's first president to not have emerged from the country's political or military elite. \n\nJokowi was born and raised in a riverside slum in Surakarta. He graduated from Gadjah Mada University in 1985, and married his wife, Iriana, a year later.[citation needed] He worked as a carpenter and a furniture exporter before being elected mayor of Surakarta in 2005. He achieved national prominence as mayor and was elected governor of Jakarta in 2012, with Basuki Tjahaja Purnama as his deputy. As governor, he reinvigorated local politics, introduced publicised blusukan visits (unannounced spot checks) and improved the city's bureaucracy, reducing corruption in the process. He also introduced years-late programs to improve quality of life, including universal healthcare, dredged the city's main river to reduce flooding, and inaugurated the construction of the city's subway system. \n\nIn 2014, he was nominated as the PDI-P's candidate in that year's presidential election, choosing Jusuf Kalla as his running mate. Jokowi was elected over his opponent Prabowo Subianto, who disputed the outcome of the election, and was inaugurated on 20 October 2014. Since taking office, Jokowi has focused on economic growth and infrastructure development as well as an ambitious health and education agenda. On foreign policy, his administration has emphasised 'protecting Indonesia's sovereignty', with the sinking of illegal foreign fishing vessels and the prioritising and scheduling of capital punishment for drug smugglers. The latter was despite intense representations and diplomatic protests from foreign powers, including Australia and France. He was re-elected in 2019 for a second five-year term, again defeating Prabowo Subianto.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Joko_Widodo",
+        "imageName": "joko_widodo",
+        "coordinates": {
+            "latitude": -6.170152,
+            "longitude":    106.824157
+        }
+      },
+
+      {
+        "name": "Justin Trudeau",
+        "age": 51,
+        "DOB": "25/12/1971",
+        "country": "Canada",
+        "region": "North America",
+        "position": "Prime Minister",
+        "flag": "🇨🇦",
+        "description":"Justin Pierre James Trudeau PC MP is a Canadian politician serving as the 23rd and current prime minister of Canada since 2015 and leader of the Liberal Party since 2013. Trudeau was born in Ottawa and attended Collège Jean-de-Brébeuf. He graduated from McGill University in 1994 with a Bachelor of Arts degree in literature, then in 1998 acquired a Bachelor of Education degree from the University of British Columbia. After graduating he taught at the secondary school level in Vancouver, before relocating back to Montreal in 2002 to further his studies. He was chair for the youth charity Katimavik and director of the not-for-profit Canadian Avalanche Association. In 2006, he was appointed as chair of the Liberal Party's Task Force on Youth Renewal.\n\nIn the 2008 federal election, he was elected to represent the riding of Papineau in the House of Commons. He was the Liberal Party's Official Opposition critic for youth and multiculturalism in 2009, and the following year he became critic for citizenship and immigration. In 2011, he was appointed as a critic for secondary education and sport. Trudeau won the leadership of the Liberal Party in April 2013 and led his party to victory in the 2015 federal election, moving the third-placed Liberals from 36 seats to 184 seats, the largest-ever numerical increase by a party in a Canadian federal election.\n\nMajor government initiatives he undertook during his first term as prime minister included legalizing recreational marijuana through the Cannabis Act; attempting Senate appointment reform by establishing the Independent Advisory Board for Senate Appointments and establishing the federal carbon tax. In foreign policy, Trudeau's government negotiated trade deals such as the Canada-United States-Mexico Agreement (CUSMA) and the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, and signed the Paris Agreement on climate change. He was sanctioned by Canada's ethics commissioner for violating conflict of interest rules regarding the Aga Khan affair, and later again with the SNC-Lavalin affair.\n\nTrudeau led the Liberals to a minority government victory in the 2019 federal election. During his second term, his government responded to the COVID-19 pandemic, announced an 'assault-style' weapons ban in response to the 2020 Nova Scotia attacks, and was investigated for a third time by the ethics commissioner for his part in the WE Charity scandal, but was cleared of wrongdoing. In the 2021 federal election, he led the Liberals to another minority government. During his third term, he invoked the Emergencies Act in response to the Freedom Convoy protests (the first time the act was brought into force since it was enacted in 1988) and responded to the Russian invasion of Ukraine by imposing sanctions on Russia and authorizing military aid to Ukraine.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Justin_Trudeau",
+        "imageName": "justin_trudeau",
+        "coordinates": {
+            "latitude": 45.423575,
+            "longitude":  -75.697227
+        }
+      },
+
+      {
+        "name": "Lula Da Silva",
+        "age": 62,
+        "DOB": "17/07/1961",
+        "country": "Brazil",
+        "region": "South America",
+        "position": "President",
+        "flag": "🇧🇷",
+        "description":"Luiz Inácio Lula da Silva, also known as Lula da Silva or simply Lula, is a Brazilian politician who is the 39th and current president of Brazil. A member of the Workers' Party, he previously served as the 35th president of Brazil from 2003 to 2010. \n\nOf working-class origin, Lula migrated as a child from Pernambuco to São Paulo with his family. As a teenager, he began his career as a metalworker and became a trade unionist. During the military dictatorship in Brazil, he led major workers' strikes between 1978 and 1980, and helped start the Workers' Party in 1980, during Brazil's political opening. Lula was one of the main leaders of the Diretas Já movement, which demanded democratic elections. In the 1986 Brazilian legislative election, he was elected as a federal deputy in the state of São Paulo, with the most votes nationwide. He ran his first major campaign in the 1989 Brazilian presidential election, losing in the second round to Fernando Collor de Mello. He went on to lose two other presidential elections in 1994 and 1998 to Fernando Henrique Cardoso, before becoming president in the 2002 Brazilian presidential election, in which he defeated José Serra in the runoff. In 2006, he was re-elected as president, defeating Geraldo Alckmin in the second round. \n\nDescribed as left-wing, his first presidency, which coincided with the first pink tide in the region, was marked by the consolidation of social welfare programs such as Bolsa Família and Fome Zero, which propelled Brazil to leave the United Nations' Hunger Map. During his two terms in office, he undertook radical reforms in the country, which eventually led to growth in GDP, reduction in public debt and inflation, and helping 20 million Brazilians escape poverty. Poverty, inequality, illiteracy, unemployment, infant mortality, and child labor rates fell significantly, while the minimum wage and average income increased, and access to school, university, and health care was expanded. He also played a prominent role in foreign policy, both on a regional level (as part of the BRICS) and as part of global trade and environmental negotiations. Lula was considered one of the most popular politicians in the history of Brazil, and was one of the most popular in the world while president. Although popular, his first term was marked by notable scandals, such as the Mensalão scandal and Escândalo dos sanguessugas [pt]. After the 2010 Brazilian general election, he was succeeded by his former Chief of Staff, Dilma Rousseff. \n\nAfter his first presidency, Lula remained active in politics, and began giving lectures in Brazil and abroad. In 2016, he was appointed as Rousseff's Chief of Staff, but the appointment was suspended by the Supreme Federal Court. In July 2017, Lula was convicted on charges of money laundering and corruption in a controversial trial that was later nullified in April 2021 by the Supreme Court Justices, due to the court lacking proper jurisdiction over his case. Lula attempted to run in the 2018 Brazilian presidential election but was disqualified under Brazil's Ficha Limpa law. Before the annulment of his cases, he was sentenced to nine and a half years in prison, and after an unsuccessful appeal, Lula was arrested in April 2018 and spent 580 days in jail, until being released in November 2019, when the Supreme Federal Court ruled that his imprisonment was unlawful. In March 2021, the Supreme Court ruled that the federal judge presiding over the case, Sergio Moro, who served as Minister of Justice and Public Security in the presidency of Jair Bolsonaro, was biased, and all of the cases Moro had brought against Lula were annulled in June 2021. Following the court ruling, Lula was legally allowed to make another run for president in the 2022 elections, defeating Bolsonaro in the runoff. He became the first Brazilian president to have been elected to a third term, and the first to have defeated an incumbent president in an election. At age 77, he was sworn in on 1 January 2023, as the oldest Brazilian president at the time of inauguration.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Luiz_Inacio_Lula_da_Silva",
+        "imageName": "luiz_inacio",
+        "coordinates": {
+            "latitude":-15.799047, 
+            "longitude":  -47.860823
+        }
+      },
+
+      {
+        "name": "BongBong Marcos",
+        "age": 77,
+        "DOB": "27/10/1945",
+        "country": "Philipines",
+        "region": "Asia",
+        "position": "President",
+        "flag": "🇵🇭",
+        "description":"Ferdinand BongBong Romualdez Marcos Jr, born September 13, 1957, commonly referred to by the initials PBBM or BBM, is a Filipino politician who is the 17th and current president of the Philippines. Marcos is also the secretary of agriculture, holding the post in concurrent capacity. He previously served as a senator from 2010 to 2016. He is the second child and only son of 10th president and dictator Ferdinand Marcos Sr. and former first lady Imelda Romualdez Marcos. \n\nIn 1980, Marcos became Vice Governor of Ilocos Norte, running unopposed with the Kilusang Bagong Lipunan party of his father, who was ruling the Philippines under martial law at the time. He then became Governor of Ilocos Norte in 1983, holding that office until his family was ousted from power by the People Power Revolution and fled into exile in Hawaii in February 1986. After the death of his father in 1989, President Corazon Aquino eventually allowed his family to return to the Philippines to face various charges. Marcos and his mother, Imelda, are currently facing arrest in the United States for defying a court order to pay US$353 million in restitution to human rights abuse victims during his father's dictatorship. \n\nMarcos was elected as Representative of Ilocos Norte's 2nd congressional district from 1992 to 1995. He was elected Governor of Ilocos Norte again in 1998. After nine years, he returned to his previous position as Representative from 2007 to 2010, then became senator under the Nacionalista Party from 2010 to 2016. In 2015, Marcos ran for vice president in the 2016 election. With a difference of 263,473 votes and a 0.64 percent difference in votes, Marcos lost to Camarines Sur representative Leni Robredo. In response, Marcos filed an electoral protest at the Presidential Electoral Tribunal; his petition was later unanimously dismissed after the pilot recount resulted in Robredo widening her lead by 15,093 additional votes. \n\nIn 2021, Marcos announced that he would run for President of the Philippines in the 2022 election, under the Partido Federal ng Pilipinas, which he won by a landslide. He received nearly 59% of the votes, becoming the first to be elected by a majority since the establishment of the Fifth Republic in 1986. He was officially declared president-elect by Congress on May 25, 2022. His win was also the largest since 1981, when his father won 88% of the votes due to a boycott by the opposition who protested the prior election. He is the first Philippine candidate to lose a vice presidential campaign but win the presidency. \n\nMarcos's presidential campaign received criticism from fact-checkers and disinformation scholars, who found his campaign to be driven by historical negationism aimed at revamping the Marcos brand and smearing his rivals. His campaign has also been accused of whitewashing the human rights abuses and plunder, estimated at five to 13 billion dollars, that took place during his father's presidency. The Washington Post has noted how the historical distortionism of the Marcoses has been underway since the 2000s, while The New York Times cited his convictions of tax fraud, including his refusal to pay his family's estate taxes, and misrepresentation of his education at the University of Oxford.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Bongbong_Marcos",
+        "imageName": "marcos-bongbong",
+        "coordinates": {
+            "latitude": 14.593947, 
+            "longitude":  120.994349
+        }
+      },
+
+      {
+        "name": "Mohammed bin Salman",
+        "age": 37,
+        "DOB": "31/08/1985",
+        "country": "Saudia Arabia",
+        "region": "Asia",
+        "position": "Crown Prince/Prime Minister",
+        "flag": "🇸🇦",
+        "description":"Mohammed bin Salman Al Saud, colloquially known by his initials MBS or MbS, is crown prince and Prime Minister of Saudi Arabia. He also serves as the chairman of the Council of Economic and Development Affairs and chairman of the Council of Political and Security Affairs. He is considered the de facto ruler of Saudi Arabia, being deemed as such even before his appointment as prime minister in 2022. \nHe served as minister of defense from 2015 to 2022. He is the seventh son of King Salman. He was named the 8th most powerful person in the world by Forbes. He has a reported personal wealth of at least $25 billion, making him one of the wealthiest royals and individuals in the world. \n\nMohammed was born as the first child of Prince Salman bin Abdulaziz and his third wife, Fahda bint Falah Al Hithlain. After obtaining a law degree from King Saud University, he served as an advisor to his father. After Salman became king, he appointed Mohammed defense minister and deputy crown prince in 2015. Mohammed was promoted to crown prince after the dismissal of Crown Prince Muhammad bin Nayef, King Salman's nephew, in 2017. Salman ceded the position of prime minister to his son in 2022. \n\nMohammed rules an authoritarian government. There are no democratic institutions in Saudi Arabia, and repression is widespread. Islamic scholars, human rights activists, women's rights activists, journalists, former insiders, Islamists, and other political dissidents are systematically repressed through tactics including torture and jailing, and some reports have alleged that Mohammed uses a group known as the Tiger Squad to carry out extrajudicial killings. A CIA report released in 2021 implicated him of being personally linked to the assassination of Jamal Khashoggi, a Saudi Arabian Washington Post columnist and critic of Saudi government, but Mohammed has denied involvement in the killing. Mohammed was the architect of Saudi Arabian-led intervention in Yemen which has exacerbated the humanitarian crisis and famine there. His government was also involved in the escalation of the Qatar diplomatic crisis, the 2017 detention of Lebanese prime minister Saad Hariri, a 2018 diplomatic spat with Canada, the arrest of Saudi princes and billionaires in 2017, the 2018–2019 Saudi crackdown on feminists, an alleged phone hack against Amazon chairman Jeff Bezos in 2019, and treason charges against his cousin and rival Muhammad bin Nayef in 2020. Saudi Arabia's relations with the Biden administration have been strained, especially after Mohammed's refusal to increase oil production in the wake of the 2022 Russian invasion of Ukraine. \n\nMohammed has touted reforms in an effort to improve his government's image. These include regulations restricting the powers of the religious police and improving women's rights, such as the removal of the ban on female drivers in 2018 and weakening the male-guardianship system in 2019. Other cultural developments under his reign include the first Saudi public concerts by a female singer, the first Saudi sports stadium to admit women, an increased presence of women in the workforce, and opening the country to international tourists by introducing an e-visa system, allowing foreign visas to be applied for and issued via the Internet. The Saudi Vision 2030 program aims to diversify the country's economy through investment in non-oil sectors including technology and tourism. Under Mohammed, Saudi Arabia started co-ordinating its energy policy with Russia since 2016, and also strengthened its relations with China, signing a comprehensive strategic partnership with Xi Jinping in 2022. In 2023, Saudi Arabia restored full diplomatic relations with Iran leading to a wider regional rapprochement, including negotiations for peace deal with Houthis, following talks mediated by China.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman",
+        "imageName": "MBS",
+        "coordinates": {
+            "latitude": 24.662637, 
+            "longitude":  46.636549
+        }
+      },
+
+      {
+        "name": "Mette Frederiksen",
+        "age": 45,
+        "DOB": "19/11/1977",
+        "country": "Denmark",
+        "region": "Europe",
+        "position": "Prime Minister",
+        "flag": "🇩🇰",
+        "description":"Mette Frederiksen is a Danish politician who has served as Prime Minister of Denmark since June 2019, and Leader of the Social Democrats since June 2015. The second woman to hold either office, she is also the youngest prime minister in Danish history. \n\nBesides a brief career as a trade unionist (2000–2001), Frederiksen has never had any employment outside politics. She was first elected to the Folketing in the 2001 general election, representing Copenhagen County. After the Social Democrats won the 2011 general election, she was appointed Minister of Employment by Prime Minister Helle Thorning-Schmidt. She was promoted to Minister of Justice in 2014. After the Social Democrats' narrow defeat in the 2015 general election, Thorning-Schmidt stood down, and Frederiksen won the subsequent leadership election to replace her, becoming Leader of the Opposition. Frederiksen led her party into the 2019 general election, which resulted in the bloc of left-wing and centre-left parties (her Social Democrats, the Social Liberals, the Socialist People's Party, the Red–Green Alliance, the Faroese Social Democratic Party, and Greenland's Siumut and Inuit Ataqatigiit) winning a majority in the Folketing. Frederiksen was subsequently commissioned by Queen Margrethe II to lead negotiations to form a new government, and was sworn in as prime minister on 27 June. In December 2021, she became the longest-serving incumbent female head of government in the European Union. \n\nIn July 2022, the Mink Commission released a report that criticized Frederiksen's government's handling of the Cluster 5 COVID-19 outbreak among Danish mink, though it absolved Frederiksen of deliberate misleading of the public. The Danish Social Liberal Party brought an ultimatum against Frederiksen threatening to bring a motion of no confidence against her government if she did not call for an early election. On 5 October 2022, Frederiksen announced that an election was to be held on 1 November of the same year. The election resulted in the best result for the Social Democrats in 20 years with the party gaining two more seats for a total of 50. Frederiksen herself received 60,837 votes, the most of any candidate. On 13 December 2022, Frederiksen announced that an accord on a coalition government with the Social Democrats, the Venstre (Denmark's liberal party) and the Moderates had been reached, with herself continuing as prime minister.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Mette_Frederiksen",
+        "imageName": "mette_frederiksen",
+        "coordinates": {
+            "latitude": 55.675358,
+            "longitude":  12.578015
+        }
+      },
+
+      {
+        "name": "Narendra Modi",
+        "age": 72,
+        "DOB": "17/09/1950",
+        "country": "India",
+        "region": "Asia",
+        "position": "Prime Minister",
+        "flag": "🇮🇳",
+        "description":"Narendra Damodardas Modi is an Indian politician who has served as the 14th Prime Minister of India since May 2014. Modi was the Chief Minister of Gujarat from 2001 to 2014 and is the Member of Parliament for Varanasi. \n\nModi was born and raised in Vadnagar in northeastern Gujarat, where he completed his secondary education. He was introduced to the RSS at age eight. His account of helping his father sell tea at the Vadnagar railway station has not been reliably corroborated. At age 18, he was married to Jashodaben Modi, whom he abandoned soon after, only publicly acknowledging her four decades later when legally required to do so. Modi became a full-time worker for the RSS in Gujarat in 1971. The RSS assigned him to the BJP in 1985 and he held several positions within the party hierarchy until 2001, rising to the rank of general secretary. \n\nIn 2001, Modi was appointed Chief Minister of Gujarat and elected to the legislative assembly soon after. His administration is considered complicit in the 2002 Gujarat riots, and has been criticised for its management of the crisis. A little over 1,000 people were killed, according to official records, three-quarters of whom were Muslim; independent sources estimated 2,000 deaths, mostly Muslim. A Special Investigation Team appointed by the Supreme Court of India in 2012 found no evidence to initiate prosecution proceedings against him. While his policies as chief minister, which were credited for encouraging economic growth, were praised, Modi's administration was criticised for failing to significantly improve health, poverty and education indices in the state. In the 2014 Indian general election, Modi led the BJP to a parliamentary majority, the first for a party since 1984. His administration increased direct foreign investment; it reduced spending on healthcare, education, and social-welfare programmes. Modi began a high-profile sanitation campaign, controversially initiated the 2016 demonetisation of high-denomination banknotes and introduced the Goods and Services Tax, and weakened or abolished environmental and labour laws. \n\nModi's administration launched the 2019 Balakot airstrike against an alleged terrorist training camp in Pakistan: the airstrike failed, but had nationalist appeal. Modi's party comfortably won the 2019 general election which followed. In its second term, his administration revoked the special status of Jammu and Kashmir, an Indian-administred portion of the disputed Kashmir region, and introduced the Citizenship Amendment Act, prompting widespread protests, and spurring the 2020 Delhi riots in which Muslims were brutalized and killed by Hindu mobs, sometimes with the complicity of police forces controlled by the Modi administration. Three controversial farm laws, led to sit-ins by farmers across the country, eventually causing their formal repeal. Modi oversaw India's response to the COVID-19 pandemic, during which 4.7 million Indians died, according to the World Health Organization's estimates. Under Modi's tenure, India has experienced democratic backsliding, or the weakening of democratic institutions, individual rights, and freedom of expression. As prime minister, he has received consistently high approval ratings. Modi has been described as engineering a political realignment towards right-wing politics. He remains a controversial figure domestically and internationally, over his Hindu nationalist beliefs and handling of the 2002 Gujarat riots, which have been cited as evidence of a majoritarian and exclusionary social agenda.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Narendra_Modi",
+        "imageName": "nahendra-modi",
+        "coordinates": {
+            "latitude": 28.615000,
+            "longitude":  77.205833
+        }
+      },
+
+      {
+        "name": "Olaf Scholz",
+        "age": 65,
+        "DOB": "14/06/1958",
+        "country": "Germany",
+        "region": "Europe",
+        "position": "Chancellor",
+        "flag": "🇩🇪", 
+        "description":"Olaf Scholz is a German politician who has been serving as the chancellor of Germany since 8 December 2021. A member of the Social Democratic Party, he previously served as Vice Chancellor in the fourth Merkel cabinet and as Federal Minister of Finance from 2018 to 2021. \n\nScholz began his career as a lawyer specialising in labour and employment law. He became a member of the SPD in the 1970s and was a member of the Bundestag from 1998 to 2011. Scholz served in the Hamburg Government under First Mayor Ortwin Runde in 2001 and became General Secretary of the SPD in 2002, where he served alongside SPD leader and then-Chancellor Gerhard Schröder. He became his party's Chief Whip in the Bundestag, later entering the First Merkel Government in 2007 as Federal Minister for Labour and Social Affairs. After the SPD moved into the opposition following the 2009 election, Scholz returned to lead the SPD in Hamburg. He was then elected Deputy Leader of the SPD. He led his party to victory in the 2011 Hamburg state election and became First Mayor, a position he held until 2018. \n\nAfter the Social Democratic Party entered the fourth Merkel government in 2018, Scholz was appointed as both Minister of Finance and Vice Chancellor of Germany. In 2020, he was nominated as the SPD's candidate for Chancellor of Germany for the 2021 federal election. The party won a plurality of seats in the Bundestag and formed a 'traffic light coalition' with Alliance 90/The Greens and the Free Democratic Party. On 8 December 2021, Scholz was elected and sworn in as Chancellor by the Bundestag, succeeding Angela Merkel. \n\nAs Chancellor, Scholz has overseen Germany's response to the 2022 Russian invasion of Ukraine. Despite taking a more restrained and cautious response than many other Western leaders, Scholz oversaw a significant increase in the German defence budget, weapons shipments to Ukraine, and the cancellation of the Nord Stream 2 pipeline. Three days after the invasion, Scholz set out the principles of a new German defence policy in his Zeitenwende speech.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Olaf_Scholz",
+        "imageName": "olaf_scholz",
+        "coordinates": {
+            "latitude": 52.520152, 
+            "longitude":  13.369128
+        }
+      },
+
+      {
+        "name": "Pedro Sanchez",
+        "age": 51,
+        "DOB": "29/02/1972",
+        "country": "Spain",
+        "region": "Europe",
+        "position": "Prime Minister",
+        "flag": "🇪🇸",
+        "description":"Pedro Sánchez Pérez-Castejón is a Spanish politician who has been Prime Minister of Spain since June 2018. He has also been Secretary-General of the Spanish Socialist Workers' Party since June 2017, having previously held that office from 2014 to 2016. \n\nSánchez began his political career in 2004 as a city councillor in Madrid, before being elected to the Congress of Deputies in 2009. In 2014, he was elected Secretary-General of the PSOE, becoming Leader of the Opposition. He led the party through the inconclusive 2015 and 2016 general elections, but resigned as Secretary-General shortly after the latter, following public disagreements with the party's executive. He was subsequently re-elected in a leadership election eight months later, defeating Susana Díaz and Patxi López. \n\nOn 1 June 2018, the PSOE called a vote of no confidence in Prime Minister Mariano Rajoy, successfully passing the motion after winning the support of Unidas Podemos, as well as various regionalist and nationalist parties. Sánchez was subsequently sworn in as Prime Minister by King Felipe VI the following day. He went on to lead the PSOE to gain 38 seats in the April 2019 general election, the PSOE's first national victory since 2008, although they fell short of a majority. After talks to form a government failed, Sánchez again won the most votes at the November 2019 general election; further, in January 2020 he formed a minority coalition government with Unidas Podemos, the first national coalition government since the country's return to democracy.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Pedro_Sanchez",
+        "imageName": "pedro_sanchez",
+        "coordinates": {
+            "latitude": 40.443663,
+            "longitude":  -3.737014
+        }
+      },
+
+      {
+        "name": "Pham Minh Chinh",
+        "age": 72,
+        "DOB": "10/12/1958",
+        "country": "Vietnam",
+        "region": "Asia",
+        "position": "Prime Minister",
+        "flag": "🇻🇳",
+        "description":"Phạm Minh Chính (born 10 December 1958) is a Vietnamese politician and public security general. He is the current Prime Minister of Vietnam, the third highest ranking after General Secretary of the Communist Party and the President of Vietnam. \n\nA member of the Politburo of the Communist Party since 2016, Chính is also the Vice Chairman of the National Defense and Security Council of Vietnam. He is a Member of the National Assembly of Vietnam and a Lieutenant General of the People's Public Security Forces. \n\nPrior to his premiership, Chính was the Head of the Party's Central Organizing Commission, Head of the Committee of Internal Political Protection and a former Member of the Secretariat of the Communist Party (2016–2021). He also served as the Party Secretary (Governor) of Quảng Ninh province (2011–2015), Deputy Minister of Public Security (2010–2011), Head of the MPS General Department of Logistics and Technology (2010) and Deputy Head of the MPS General Department of Intelligence (2006–2009). \n\nHe holds a Bachelor of Civil Engineering, a Doctor of Law, and an Advanced Degree in Political Theory. Chính is also an Associate Professor of National Security Studies.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Pham_Minh_Chinh",
+        "imageName": "pham_minhchinh",
+        "coordinates": {
+            "latitude": 21.039256,
+            "longitude":  105.834458
+        }
+      },
+
+      {
+        "name": "Prayut Chan O Cha",
+        "age": 69,
+        "DOB": "21/03/1954",
+        "country": "Thailand",
+        "region": "Asia",
+        "position": "Prime Minister",
+        "flag": "🇹🇭",
+        "description":"Prayut Chan-o-cha is a Thai politician and army officer who has served as the Prime Minister of Thailand since he seized power in a military coup in 2014. He is concurrently the Minister of Defence, a position he has held in his own government since 2019. Prayut served as Commander-in-Chief of the Royal Thai Army from 2010 to 2014 and led the 2014 Thai coup d'état which installed the National Council for Peace and Order (NCPO), the military junta which governed Thailand between 22 May 2014 and 10 July 2019. \n\nAfter his appointment as army chief in 2010, Prayut was characterised as a royalist and an opponent of former prime minister Thaksin Shinawatra. Considered a hardliner within the military, he was one of the leading proponents of military crackdowns on the Red Shirt demonstrations of April 2009 and April–May 2010. He later sought to moderate his profile, talking to relatives of protesters who were killed in the bloody conflict, and co-operating with the government of Yingluck Shinawatra who won parliamentary elections in July 2011. \n\nDuring the political crisis that began in November 2013 and involved protests against the caretaker government of Yingluck, Prayut claimed that the army was neutral and would not launch a coup. However, in May 2014, Prayut launched a military coup against the government and assumed control of the country as dictator and leader of the National Council for Peace and Order, a military junta. He later issued an interim constitution granting himself sweeping powers and giving himself amnesty for staging the coup. In August 2014, an unelected military-dominated national legislature appointed him Prime Minister of Thailand. \n\nPrayut leads an authoritarian regime in Thailand. After seizing power, Prayut's government oversaw a significant crackdown on dissent. He formulated “twelve values” based on traditional Thai values and suggested that these be included in school lessons. Measures were implemented to limit public discussions about democracy and criticism of the government, including increases in Internet and media censorship. Prayut was elected as Prime Minister following the disputed 2019 general election, after having ruled as an unelected strongman since 2014. Following the results for United Thai Nation which finished 3rd in the 2023 general election, Prayut announced his retirement from politics, serving in a caretaker position until the National Assembly votes for a new Prime Minister.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Prayut_Chan-o-cha",
+        "imageName": "prayut_chanocha",
+        "coordinates": {
+            "latitude": 13.763060,
+            "longitude":  100.512034
+        }
+      },
+
+      {
+        "name": "Ramaphosa",
+        "age": 70,
+        "DOB": "17/11/1952",
+        "country": "South Africa",
+        "region": "Africa",
+        "position": "President",
+        "flag": "🇿🇦",
+        "description":"Matamela Cyril Ramaphosa is a South African businessman and politician who is the fifth and current president of South Africa. A former anti-apartheid activist, trade union leader, and businessman, Ramaphosa is also the president of the African National Congress. \n\nRamaphosa rose to national prominence as secretary general of South Africa's biggest and most powerful trade union, the National Union of Mineworkers. In 1991, he was elected ANC secretary general under ANC president Nelson Mandela and became the ANC's chief negotiator during the negotiations that ended apartheid. He was elected chairperson of the Constitutional Assembly after the country's first fully democratic elections in 1994 and some observers believed that he was Mandela's preferred successor. However, Ramaphosa resigned from politics in 1996 and became well known as a businessman, including as an owner of McDonald's South Africa, chair of the board for MTN, member of the board for Lonmin, and founder of the Shanduka Group. \n\nHe returned to politics in December 2012 at the ANC's 53rd National Conference and served as the deputy president of South Africa under President Jacob Zuma from 2014 to 2018. He was also chairman of the National Planning Commission. At the ANC's 54th National Conference on 18 December 2017, he was elected president of the ANC. Two months later, the day after Zuma resigned on 14 February 2018, the National Assembly (NA) elected Ramaphosa as president of South Africa. He began his first full term as president in May 2019 following the ANC's victory in the 2019 general election. While president, Ramaphosa served as chairperson of the African Union from 2020 to 2021[1] and led South Africa's response to the COVID-19 pandemic. \n\nRamaphosa's estimated net worth was estimated at over R6.4 billion ($450 million) as of 2018. He has been criticised for the conduct of his business interests, including his harsh posture as a Lonmin director towards the Marikana miners' strike in the week ahead of the Marikana massacre. \n\nOn 19 December 2022, it was announced that the ANC's 55th National Conference had elected Ramaphosa to a second term as president of the ANC.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa",
+        "imageName": "ramaphosa",
+        "coordinates": {
+            "latitude": -33.926109, 
+            "longitude":  18.420439
+        }
+      },
+
+      {
+        "name": "Tsai Ing Wen",
+        "age": 66,
+        "DOB": "31/08/1956",
+        "country": "Taiwan (Republic Of China)",
+        "region": "Asia",
+        "position": "President",
+        "flag": "🇹🇼",
+        "description":"Tsai Ing-wen is a Taiwanese politician who has served as the president of the Republic of China (Taiwan) since 2016. A member of the Democratic Progressive Party (DPP), Tsai is the first female president of Taiwan. She served as chair of the DPP from 2020 to 2022, and also previously from 2008 to 2012 and 2014 to 2018.\n\nTsai grew up in Taipei and studied law and international trade, and later became a law professor at Soochow University School of Law and National Chengchi University after earning an LLB from National Taiwan University and an LLM from Cornell Law School. She later studied law at the London School of Economics and Political Science, with her thesis titled 'Unfair trade practices and safeguard actions', and was awarded a Ph.D. in law from the University of London. In 1993, as an independent (without party affiliation), she was appointed to a series of governmental positions, including trade negotiator for WTO affairs, by the then ruling party Kuomintang (KMT) and was one of the chief drafters of the special state-to-state relations doctrine under the President Lee Teng-hui. \n\nDuring the first term of Chen Shui-bian's presidency, Tsai served as Minister of the Mainland Affairs Council. She joined the DPP in 2004 and served briefly as a DPP-nominated at-large member of the Legislative Yuan, and was then appointed as Vice Premier under Premier Su Tseng-chang until the cabinet's mass resignation in 2007. Following the DPP's defeat in the presidential election in 2008, she was elected as party chair of the DPP, but she resigned when the party lost the presidential election in 2012. \n\nTsai ran for New Taipei City mayorship in the 2010 municipal elections but was defeated by the KMT candidate, Eric Chu. In April 2011, Tsai became the first female nominated by a major party as a presidential candidate in the history of Taiwan after defeating her former superior, Su Tseng-chang, in the DPP's primary by a slight margin. In the fifth presidential election in 2012, she was defeated by the then-president Ma Ying-jeou, but she won her first term of presidency in the 2016 presidential election by a landslide in a rematch against Chu. In the 2020 election, she was re-elected as president with an increased share of the vote. Tsai is the second president from the Democratic Progressive Party, and the first popularly elected president to have never served as Mayor of Taipei. \n\nTsai was named one of Time's most influential people of 2020 and was #9 on Forbes's most powerful women and #2 female politician after Kamala Harris of 2021. Internationally, Tsai has been praised for her response to the COVID-19 pandemic, and for standing up to pressure from the Government of the People's Republic of China. Tsai resigned as head of the Democratic People's Party (DPP) in November 2022, citing her party's poor performance in local elections earlier that month.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Tsai_Ing-wen",
+        "imageName": "tsai-ingwen",
+        "coordinates": {
+            "latitude": 25.039955,
+            "longitude":  121.511782
+        }
+      },
+
+      {
+        "name": "Ursula von der Leyen",
+        "age": 64,
+        "DOB": "08/10/1958",
+        "country": "European Union",
+        "region": "Europe",
+        "position": "President of European Comssion",
+        "flag": "🇪🇺",
+        "description":"Ursula Gertrud von der Leyen is a German physician and politician serving as the 13th president of the European Commission since 2019. She served in the German federal government between 2005 and 2019, holding successive positions in Angela Merkel's cabinet, most recently as minister of defence. Von der Leyen is a member of the centre-right Christian Democratic Union (CDU) and its EU affiliated group, the European People's Party (EPP). \n\nUrsula von der Leyen was born and raised in Brussels to German parents. Her father, Ernst Albrecht, was one of the first European civil servants. She was brought up bilingually in German and French. She moved to the Hanover Region in 1971 when her father entered politics to become minister-president of the state of Lower Saxony in 1976. As an economics student at the London School of Economics in the late 1970s, she lived under the name Rose Ladson, the family name of her American great-grandmother from Charleston, South Carolina. After graduating as a physician from the Hannover Medical School in 1987, she specialized in women's health. In 1986 she married fellow physician Heiko von der Leyen of the von der Leyen family of silk merchants. As a mother of seven children, she was a housewife during parts of the 1990s and lived for four years in Stanford, California, while her husband was on the faculty at Stanford University, returning to Germany in 1996. \n\nIn the late 1990s, she became involved in local politics in the Hanover region, and she served as a cabinet minister in the state government of Lower Saxony from 2003 to 2005. In 2005, she joined the federal cabinet, first as minister of family affairs and youth from 2005 to 2009, then as minister of labour and social affairs from 2009 to 2013, and finally as minister of defence from 2013 to 2019, the first woman to serve as German defence minister.[1] When she left office she was the only minister to have served continuously in Angela Merkel's cabinet since Merkel became chancellor. She served as a deputy leader of the CDU from 2010 to 2019, and was regarded as a leading contender to succeed Merkel as chancellor of Germany and as the favourite to become secretary general of NATO after Jens Stoltenberg. British defence secretary Michael Fallon described her in 2019 as 'a star presence' in the NATO community and 'the doyenne of NATO ministers for over five years.' In 2023 she was again regarded as a favourite to take the role. \n\nOn 2 July 2019, von der Leyen was proposed by the European Council as the candidate for president of the European Commission. She was then elected by the European Parliament on 16 July; she took office on 1 December, becoming the first woman to hold the office. In November 2022 von der Leyen announced that her Commission will work to establish an International Criminal Tribunal for the Russian Federation. \n\nVon der Leyen was included in Time's 100 Most Influential People of 2020[8] and again in 2022, and was named the most powerful woman in the world by Forbes in 2022.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Ursula_von_der_Leyen",
+        "imageName": "ursula_von_der_leyen",
+        "coordinates": {
+            "latitude": 50.843566,
+            "longitude":   4.382170
+        }
+      },
+
+      {
+        "name": "Vladimir Putin",
+        "age": 70,
+        "DOB": "07/10/1952",
+        "country": "Russia",
+        "region": "Europe",
+        "position": "President",
+        "flag": "🇷🇺", 
+        "description":"Vladimir Vladimirovich Putin is a Russian politician and former intelligence officer serving as the current president of Russia. Putin has served continuously as president or prime minister since 1999: as prime minister from 1999 to 2000 and from 2008 to 2012, and as president from 2000 to 2008 and since 2012. \n\nPutin worked as a KGB foreign intelligence officer for 16 years, rising to the rank of lieutenant colonel before resigning in 1991 to begin a political career in Saint Petersburg. He moved to Moscow in 1996 to join the administration of President Boris Yeltsin. He briefly served as director of the Federal Security Service (FSB) and secretary of the Security Council of Russia, before being appointed prime minister in August 1999. After the resignation of Yeltsin, Putin became acting president and, less than four months later, was elected outright to his first term as president. He was reelected in 2004. Because he was constitutionally limited to two consecutive terms as president, Putin served as prime minister again from 2008 to 2012 under Dmitry Medvedev. He returned to the presidency in 2012, in an election marred by allegations of fraud and protests, and was reelected in 2018. In April 2021, after a referendum, he signed into law constitutional amendments including one that would allow him to run for reelection twice more, potentially extending his presidency to 2036. \n\nDuring Putin's first tenure as president, the Russian economy grew on average by seven percent per year, after economic reforms and a fivefold increase in the price of oil and gas. Putin also led Russia during a war against Chechen separatists, reestablishing federal control of the region. As prime minister under Medvedev, he oversaw a war against Georgia and military and police reform. During his third term as president, Russia annexed Crimea and sponsored a war in eastern Ukraine with several military incursions made, resulting in international sanctions and a financial crisis in Russia. He also ordered a military intervention in Syria to support Russian ally Bashar al-Assad in the Syrian civil war, eventually securing a deal that granted permanent naval bases in the Eastern Mediterranean. During his fourth term as president, he launched a large invasion of Ukraine in February 2022, provoking international condemnation and significantly expanded sanctions. In September 2022, he announced a partial mobilisation and forcibly annexed four Ukrainian oblasts into Russia. In March 2023, the International Criminal Court issued an arrest warrant for Putin for war crimes in connection to his alleged criminal responsibility for illegal child abductions during the war. \n\nUnder Putin's leadership, Russia has undergone democratic backsliding and a shift to authoritarianism. His rule has been characterised by endemic corruption and widespread human rights violations, including the imprisonment and repression of political opponents, the intimidation and suppression of independent media in Russia, and a lack of free and fair elections. Putin's Russia has scored poorly on Transparency International's Corruption Perceptions Index, The Economist Democracy Index, Freedom House's Freedom in the World index, and the Reporters Without Borders Press Freedom Index. Putin is the longest-serving Russian president and the second-longest currently serving European president, after Alexander Lukashenko of Belarus.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+        "imageName": "vladimir-putin",
+        "coordinates": {
+            "latitude": 55.751495,
+            "longitude":  37.618153
+        }
+      },
+
+      {
+        "name": "Volodymyr Zelensky",
+        "age": 45,
+        "DOB": "25/01/1978",
+        "country": "Ukraine",
+        "region": "Europe",
+        "position": "President",
+        "flag": "🇺🇦", 
+        "description":"Volodymyr Oleksandrovych Zelenskyy is a Ukrainian politician and former comedian and actor who is the sixth and current president of Ukraine since 2019. Born to a Ukrainian Jewish family, Zelenskyy grew up as a native Russian speaker in Kryvyi Rih, a major city of Dnipropetrovsk Oblast in central Ukraine. \n\nBorn to a Ukrainian Jewish family, Zelenskyy grew up as a native Russian speaker in Kryvyi Rih, a major city of Dnipropetrovsk Oblast in central Ukraine. Prior to his acting career, he obtained a degree in law from the Kyiv National Economic University. He then pursued a career in comedy and created the production company Kvartal 95, which produced films, cartoons, and TV shows including the TV series Servant of the People, in which Zelenskyy played a fictional Ukrainian president. The series aired from 2015 to 2019 and was immensely popular. A political party with the same name as the TV show was created in March 2018 by employees of Kvartal 95. \n\nZelenskyy announced his candidacy in the 2019 presidential election on the evening of 31 December 2018, alongside the New Year's Eve address of then-president Petro Poroshenko on the TV channel 1+1. A political outsider, he had already become one of the frontrunners in opinion polls for the election. He won the election with 73.23 percent of the vote in the second round, defeating Poroshenko. He has positioned himself as an anti-establishment and anti-corruption figure. As president, Zelenskyy has been a proponent of e-government and of unity between the Ukrainian- and Russian-speaking parts of the country's population. His communication style makes extensive use of social media, particularly Instagram. His party won a landslide victory in the snap legislative election held shortly after his inauguration as president. During the first two years of his administration, Zelenskyy oversaw the lifting of legal immunity for members of parliament (the Verkhovna Rada), the country's response to the COVID-19 pandemic and subsequent economic recession, and some limited progress in tackling corruption in Ukraine. \n\nDuring his presidential campaign, Zelenskyy promised to end Ukraine's protracted conflict with Russia, and he has attempted to engage in dialogue with Russian president Vladimir Putin. His administration faced an escalation of tensions with Russia in 2021, culminating in the launch of an ongoing full-scale Russian invasion in February 2022. Zelenskyy's strategy during the Russian military buildup was to calm the Ukrainian populace and assure the international community that Ukraine was not seeking to retaliate. He initially distanced himself from warnings of an imminent war, while also calling for security guarantees and military support from NATO to 'withstand' the threat. After the start of the invasion, Zelenskyy declared martial law across Ukraine and a general mobilisation of the armed forces. His leadership during the crisis has won him widespread international praise, and he has been described as a symbol of the Ukrainian resistance. Zelenskyy was named the Time Person of the Year for 2022, and opinion polls in Ukraine have ranked him as Ukraine's greatest president.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy",
+        "imageName": "volodymyr-zelensky",
+        "coordinates": {
+            "latitude": 50.446836, 
+            "longitude": 30.530311
+        }
+      },
+
+      {
+        "name": "Xi JinPing",
+        "age": 70,
+        "DOB": "15/06/1953",
+        "country": "China",
+        "region": "Asia",
+        "position": "President",
+        "flag": "🇨🇳",
+        "description":"Xi Jinping is a Chinese politician who has been serving as the general secretary of the Chinese Communist Party, chairman of the Central Military Commission and the president of the People's Republic of China. He is current and the fifth paramount leader of China since its foundation in 1949. \n\nThe son of Chinese Communist veteran Xi Zhongxun, Xi was exiled to rural Yanchuan County as a teenager following his father's purge during the Cultural Revolution. He lived in a yaodong in the village of Liangjiahe, Shaanxi province, where he joined the CCP after several failed attempts and worked as the local party secretary. After studying chemical engineering at Tsinghua University as a worker-peasant-soldier student, Xi rose through the ranks politically in China's coastal provinces. Xi was governor of Fujian from 1999 to 2002, before becoming governor and party secretary of neighboring Zhejiang from 2002 to 2007. Following the dismissal of the party secretary of Shanghai, Chen Liangyu, Xi was transferred to replace him for a brief period in 2007. He subsequently joined the Politburo Standing Committee (PSC) of the CCP the same year and served as first secretary of the Central Secretariat in October 2007. In 2008, he was designated as Hu Jintao's presumed successor as paramount leader; to that end, Xi was appointed vice president of the PRC and vice chairman of the CMC. He officially received the title of leadership core from the CCP in 2016. \n\nXi is the first CCP general secretary born after the establishment of the PRC. Since assuming power, Xi has introduced far-ranging measures to enforce party discipline and to impose internal unity. His anti-corruption campaign led to the downfall of prominent incumbent and retired CCP officials, including Zhou Yongkang, a former member of the PSC. He has also enacted or promoted a more aggressive foreign policy, particularly with regard to China's relations with the U.S., the nine-dash line in the South China Sea, the Sino-Indian border dispute, and the political status of Taiwan. He has sought to expand China's African and Eurasian influence through the Belt and Road Initiative. Xi has expanded support for state-owned enterprises (SOEs), advanced military-civil fusion, overseen targeted poverty alleviation programs, and has attempted to reform the property sector. He has also promoted 'common prosperity', a series of policies designed with stated goal to increase equality, and used the term to justify a broad crackdown and major slew of regulations against the tech and tutoring sectors in 2021. Xi met with Taiwanese president Ma Ying-jeou in 2015, the first time PRC and Republic of China leaders met, though relations deteriorated after Tsai Ing-wen of the Democratic Progressive Party (DPP) won the presidential elections in 2016. He responded to the COVID-19 pandemic in mainland China with a zero-COVID approach from January 2020 until December 2022, afterwards shifting towards a mitigation strategy. Xi also oversaw the passage of a national security law in Hong Kong, clamping down on political opposition in the city, especially pro-democracy activists. \n\nOften described as an authoritarian leader by political and academic observers, Xi's tenure has included an increase of censorship and mass surveillance, deterioration in human rights, including the internment of one million Uyghurs in Xinjiang (which some observers have described as part of a genocide), a cult of personality developing around Xi, and the removal of term limits for the presidency in 2018. Xi's political ideas and principles, known as Xi Jinping Thought, have been incorporated into the party and national constitutions, and he has emphasized the importance of national security and the need for CCP leadership over the country. As the central figure of the fifth generation of leadership of the PRC, Xi has centralized institutional power by taking on multiple positions, including chairing the National Security Commission and new steering committees on economic and social reforms, military restructuring and modernization, and the Internet. He and the CCP Central Committee passed a 'historical resolution' in November 2021, the third such resolution after Mao Zedong and Deng Xiaoping. In October 2022, Xi secured a third term as CCP General Secretary, the second leader of the CCP to do so after Mao.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Xi_Jinping",
+        "imageName": "xi_jinping",
+        "coordinates": {
+            "latitude": 39.911389,
+            "longitude": 116.380556
+        }
+      },
+
+      {
+        "name": "Yoon Suk Yeol",
+        "age": 62,
+        "DOB": "18/12/1960",
+        "country": "South Korea",
+        "region": "Asia",
+        "position": "President",
+        "flag": "🇰🇷",
+        "description":"Yoon Suk Yeol is a South Korean politician who has been serving as the 13th and current president of South Korea since 2022. Prior to his presidency, he served as the prosecutor general of South Korea between 2019 and 2021. Born in Seoul, Yoon attended Seoul National University. \n\nBorn in Seoul, Yoon attended Seoul National University. In his capacity as the chief of the Seoul Central District Prosecutor's Office, he played a key role in convicting former presidents Park Geun-hye and Lee Myung-bak for abuse of power. Yoon was appointed prosecutor general of South Korea by President Moon Jae-in in July 2019. During Yoon's leadership, the Supreme Prosecutor's Office conducted embattled investigations into Cho Kuk, an influential figure in President Moon's administration, that would lead to Cho's resignation. Yoon's clashes with the Moon administration until his resignation as prosecutor general in March 2021 led to his rise as a presidential candidate. \n\nIn June 2021, Yoon announced his candidacy in the 2022 South Korean presidential election. He joined the right-wing People Power Party (PPP) in July, and won the PPP nomination in November. Considered conservative and economically liberal, Yoon ran on a platform promising economic deregulation and other measures such as abolishing the Ministry of Gender Equality and Family. Yoon narrowly defeated Democratic Party nominee Lee Jae-myung on 9 March 2022 and assumed office as president on 10 May 2022. During his presidency, Yoon has attempted to raise the maximum working hours, moved to repair ties with Japan, expanded military exercises with the U.S., and taken a harder line against North Korea.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Yoon_Suk_Yeol",
+        "imageName": "yoon_suk_yeol",
+        "coordinates": {
+            "latitude":  37.586673, 
+            "longitude": 126.976268
+        }
+      },
+
+      {
+        "name": "Pope Francis",
+        "age": 86,
+        "DOB": "17/12/1936",
+        "country": "Vatican City",
+        "region": "Europe",
+        "position": "Head of the Catholic Church",
+        "flag": "🇻🇦",
+        "description":"Pope Francis (Latin: Franciscus; Italian: Francesco; Spanish: Francisco; born Jorge Mario Bergoglio on 17 December 1936) is the head of the Catholic Church, the bishop of Rome and sovereign of the Vatican City State. Francis is the first pope to be a member of the Society of Jesus (Jesuits), the first from the Americas, the first from the Southern Hemisphere, and the first pope born or raised outside Europe since the 8th century papacy of Syrian pope Gregory III.\n\n Born in Buenos Aires, Argentina, Bergoglio worked for a time as a bouncer and a janitor as a young man before training to be a chemist and working as a technician in a food science laboratory. After recovering from a severe illness of pneumonia and cysts, he was inspired to join the Jesuits in 1958. He was ordained a Catholic priest in 1969, and from 1973 to 1979 was the Jesuit provincial superior in Argentina. He became the Archbishop of Buenos Aires in 1998 and was created a cardinal in 2001 by Pope John Paul II. He led the Argentine Church during the December 2001 riots in Argentina. The administrations of Néstor Kirchner and Cristina Fernández de Kirchner considered him to be a political rival. Following the resignation of Pope Benedict XVI on 28 February 2013, a papal conclave elected Bergoglio as his successor on 13 March. He chose Francis as his papal name in honor of Saint Francis of Assisi.\n\n Throughout his public life, Francis has been noted for his humility, emphasis on God's mercy, international visibility as pope, concern for the poor, and commitment to interreligious dialogue. He is credited with having a less formal approach to the papacy than his predecessors, for instance choosing to reside in the Domus Sanctae Marthae guesthouse rather than in the papal apartments of the Apostolic Palace used by previous popes.\n\n",
+        "leaderLink": "https://en.wikipedia.org/wiki/Pope_Francis",
+        "imageName": "pope-francis",
+        "coordinates": {
+            "latitude":  41.903611,
+            "longitude":  12.456389
+        }
+      }
+]

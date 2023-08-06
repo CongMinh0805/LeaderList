@@ -9,8 +9,10 @@ import Foundation
 import SwiftUI
 import CoreLocation
 
-struct Leader : Identifiable{
-    var id = UUID()
+struct Leader: Identifiable, Codable{
+    var id : UUID {
+        UUID()
+    }
     var name : String
     var age: Int
     var DOB: String
@@ -28,5 +30,17 @@ struct Leader : Identifiable{
         Image(imageName)
     }
     
-    var locationCoordinate : CLLocationCoordinate2D
+    var coordinates: Coordinates
+    
+    var locationCoordinate: CLLocationCoordinate2D {
+            CLLocationCoordinate2D(
+                latitude: coordinates.latitude,
+                longitude: coordinates.longitude
+            )
+        }
+}
+
+struct Coordinates: Codable {
+    var latitude: Double
+    var longitude: Double
 }
